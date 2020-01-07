@@ -1,5 +1,7 @@
 {{ $is_list := .is_list }}
 {{ $page := .page }}
+{{ $show_date := $page.Params.show_date | default "true" }}
+
 
 <div class="article-metadata">
 
@@ -13,10 +15,13 @@
   {{ end }}
   {{ end }}
 
+  {{ if $show_date }}
   {{ if not (in (slice "talk" "page") $page.Type) }}
   <span class="article-date">
     {{ $date := $page.Lastmod.Format site.Params.date_format }}
-    {{ if eq $page.Type "publication" }}
+    {{ if $page.Params.date_print }}
+      {{ $date = $page.Params.date_print }}
+    {{ else if eq $page.Type "publication" }}
       {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
     {{ else }}
       {{ if ne $page.Params.Lastmod $page.Params.Date }}
@@ -26,9 +31,12 @@
     {{ $date }}
   </span>
   {{ end }}
+  {{ end }}
 
   {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
-  <span class="middot-divider"></span>
+    {{ if $show_date }}
+    <span class="middot-divider"></span>
+    {{ end }}
   <span class="pub-publication">
     {{ if $page.Params.publication_short }}
       {{ $page.Params.publication_short | markdownify }}

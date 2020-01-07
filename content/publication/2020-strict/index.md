@@ -7,6 +7,7 @@ authors: [
 date: 2020-01-07
 doi: ""
 
+show_date: false
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
