@@ -6,7 +6,6 @@ authors: [
 ]
 date: 2020-01-07
 date_print: "Forthcoming"
-doi: "10.1093/analys/anz076"
 
 
 # Publication type.
@@ -40,6 +39,7 @@ probability framework. And we give a Dutch Book argument for certain failures of
 
 
 
+doi: "10.1093/analys/anz076"
 
 links:
 - name: Preprint
