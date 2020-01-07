@@ -3,8 +3,7 @@ title: "Rational Probabilistic Incoherence. A Reply to Michael Caie"
 authors: [
   "[Catrin Campbell-Moore](/)",
 ]
-date: 2018-09-13
-doi: "10.1007/s10992-018-9475-0"
+date: 2015-07-01
 
 
 # Publication type.
@@ -25,19 +24,17 @@ summary: "
 In addition to specific responses to Caie's paper, this presents some bullets that need to be bitten if one adopts a consequentialist view of epistemic utility. Further such bullets are also presented in my thesis (ch.7)
 "
 
+doi: "10.1215/00318108-2895347"
 links:
 - name: Preprint
-  url: Rational Probabilistic Incoherence? A Reply to Michael Caie.pdf
-
-
-
+  url: "Rational Probabilistic Incoherence.pdf"
 
 
 
 
 # Tags. Optional for organization.
 tags:
-- Self-referential Probability
+- Self-Referential Probability
 - Accuracy
 
 featured: false
