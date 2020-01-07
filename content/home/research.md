@@ -12,7 +12,6 @@ title = "Research"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
-I mostly work on philosophical logic and formal epistemology, and often on the connection between these.
 
 There are two main strands to my current research.
 

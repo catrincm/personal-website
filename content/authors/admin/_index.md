@@ -48,4 +48,4 @@ education:
 ---
 I am a lecturer in Philosophy at the University of Bristol.
 
-I work on philosophical logic and formal epistemology, and often on the connection between these.
+I mostly work on logic and formal epistemology, and often on the connection between these.
