@@ -58,23 +58,6 @@
   {{ i18n "btn_dataset" }}
 </a>
 {{ end }}
-{{ if $page.Params.projects }}
-{{ range $page.Params.projects }}
-  {{ with (site.GetPage (printf "project/%s" .)) }}
-  <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ .RelPermalink }}">
-    {{ i18n "btn_project" }}
-  </a>
-  {{ else }}
-    {{/* errorf "The `projects` parameter in `content/%s` references a project file, `content/project/%s`, which cannot be found. Please either set `projects = []` or fix the reference." $page.File.Path . */}}
-  {{ end }}
-{{ end }}
-{{ else }}
-{{ with $page.Params.url_project }}
-<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
-  {{ i18n "btn_project" }}
-</a>
-{{ end }}
-{{ end }}
 {{ with $page.Params.url_poster }}
   {{ $resource := $page.Resources.GetMatch . }}
   {{ if $resource }}
@@ -155,4 +138,22 @@
     {{ if .icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} {{if .name}}mr-1{{end}}"></i>{{end}}
     {{ with .name }}{{ . | safeHTML }}{{end}}
   </a>
+{{ end }}
+
+{{ if $page.Params.projects }}
+{{ range $page.Params.projects }}
+  {{ with (site.GetPage (printf "project/%s" .)) }}
+  <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ .RelPermalink }}">
+    {{ i18n "btn_project" }}
+  </a>
+  {{ else }}
+    {{/* errorf "The `projects` parameter in `content/%s` references a project file, `content/project/%s`, which cannot be found. Please either set `projects = []` or fix the reference." $page.File.Path . */}}
+  {{ end }}
+{{ end }}
+{{ else }}
+{{ with $page.Params.url_project }}
+<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
+  {{ i18n "btn_project" }}
+</a>
+{{ end }}
 {{ end }}
