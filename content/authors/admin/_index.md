@@ -19,10 +19,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:
 
-
 interests:
-- Logic
-- Formal Epistemology
+- Non-classical Logic
+- Probability
+- Liar paradox
+- Rationality
+- Accuracy
 
 education:
   courses:
@@ -46,6 +48,8 @@ education:
 # external_link: /
 
 ---
-I am a lecturer in Philosophy at the University of Bristol.
+I am a lecturer in Philosophy at the [University of Bristol](https://www.bristol.ac.uk/philosophy).
 
-I mostly work on logic and formal epistemology, and often on the connection between these.
+I work on logic and formal epistemology, and often on the connection between these.
+Much of my work centres on epistemic versions of the liar paradox in the form of cases where one's credences undermine themselves.
+I'm also thinking about accuracy-theory, which is used to justify rationality constraints, and how it applies in unusual settings such as risk-aware decision theories, non-classical logic, imprecise probabilities.
