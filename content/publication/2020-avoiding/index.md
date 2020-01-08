@@ -30,7 +30,7 @@ summary: "This argues that evidence gathering is epistemically irrational for th
 
 links:
 - name: Preprint
-  url: Avoiding Risk and Avoiding Evidence - with Bernhard Salow.pdf
+  url: Avoiding Risk and Avoiding Evidence.pdf
 
 
 
@@ -38,7 +38,7 @@ links:
 # Tags. Optional for organization.
 tags:
 - Accuracy
-- Risk-aware decision theory
+- Risk-sensitive decision theory
 
 featured: false
 

@@ -36,7 +36,7 @@ links:
 # Tags. Optional for organization.
 tags:
 - Accuracy
-- Risk-aware decision theory
+- Risk-sensitive decision theory
 
 featured: false
 
