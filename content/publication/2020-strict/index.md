@@ -30,7 +30,7 @@ doi: ""
 links:
 - name: Preprint
   url: Strict Propriety is Weak.pdf
-- name: Appendix
+- name: Technical Appendix
   url: Draft_Appendix to Strict Propriety is Weak.pdf
 
 
