@@ -22,7 +22,7 @@ But, strict propriety follows from weak propriety given strict truth-directednes
 "
 
 # Summary. A shortened abstract for the summary pages.
-summary: "We note that strict propriety follows from weak propriety, given truth-directedness."
+summary: "We note that strict propriety follows from weak propriety, given truth-directedness, thus closing an argumentative gap in the literature."
 
 
 

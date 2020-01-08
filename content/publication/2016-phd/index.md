@@ -41,7 +41,7 @@ We investigate how to apply the Dutch book and accuracy arguments to cases invol
 
 # Summary. A shortened abstract for the summary pages.
 summary: "
-This discusses self-referential probabilities in some gory detail. We discuss a number of semantics models and initial work on how rationality considerations should apply in such cases.
+This thesis discusses self-referential probabilities in some gory detail. We discuss a number of semantics models and initial work on how rationality considerations should apply in such cases.
 "
 
 
@@ -49,7 +49,7 @@ This discusses self-referential probabilities in some gory detail. We discuss a 
 links:
 - name: Full thesis
   url: PhD thesis.pdf
-- name: One page summary
+- name: Handout summary
   url: PhD thesis_summary.pdf
 - name: Eight page abstract
   url: PhD thesis_extended abstract.pdf
