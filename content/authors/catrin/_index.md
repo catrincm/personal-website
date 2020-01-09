@@ -51,6 +51,5 @@ education:
 
 ---
 I am a lecturer in Philosophy at the University of Bristol.
-
 I work on logic and formal epistemology, and often on the connection between these.
 Much of my work centres on epistemic versions of the liar paradox in the form of cases where one's credences undermine themselves. I also work on accuracy theory and alternative models of belief.
