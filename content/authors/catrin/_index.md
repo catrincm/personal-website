@@ -4,7 +4,7 @@ name: Catrin Campbell-Moore
 
 # Username (this should match the folder name)
 authors:
-- admin
+- catrin
 
 # Is this the primary user of the site?
 superuser: true
