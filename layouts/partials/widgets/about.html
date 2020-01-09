@@ -29,7 +29,8 @@
       {{ end }}
 
       <div class="portrait-title">
-        <h2>{{ $person.name }}</h2>
+        <h2>{{ $person.name_for_about_widget | safeHTML}}</h2>
+
         {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
 
         {{ range $person.organizations }}

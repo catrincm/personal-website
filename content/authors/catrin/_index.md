@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Catrin Campbell-Moore
+name_for_about_widget: Catrin <br> Campbell-Moore
 
 # Username (this should match the folder name)
 authors:
