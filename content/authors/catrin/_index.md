@@ -16,6 +16,7 @@ role: Lecturer in Philosophy
 # Organizations/Affiliations
 organizations:
 - name: University of Bristol
+  url: https://www.bristol.ac.uk/philosophy
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -49,7 +50,7 @@ education:
 # external_link: /
 
 ---
-I am a lecturer in Philosophy at the [University of Bristol](https://www.bristol.ac.uk/philosophy).
+I am a lecturer in Philosophy at the University of Bristol.
 
 I work on logic and formal epistemology, and often on the connection between these.
-Much of my work centres on epistemic versions of the liar paradox in the form of cases where one's credences undermine themselves. I also work on accuracy theory and alternative models of belief. 
+Much of my work centres on epistemic versions of the liar paradox in the form of cases where one's credences undermine themselves. I also work on accuracy theory and alternative models of belief.
