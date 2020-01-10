@@ -6,6 +6,7 @@ authors: [
 ]
 date: 2020-01-07
 date_print: "Forthcoming"
+doi: "https://doi.org/10.1093/analys/anz076"
 
 
 # Publication type.
@@ -17,7 +18,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "Analysis Reviews"
 
-abstract: "Moss argues that rational agents are best thought of not as having degrees of
+abstract: "Moss (2018) argues that rational agents are best thought of not as having degrees of
 belief in various propositions. Instead, they are best thought of as having beliefs
 in probabilistic contents. Probabilistic contents are sets of probability functions.
 Probabilistic belief states, in turn, can then be modelled by sets of probabilistic
