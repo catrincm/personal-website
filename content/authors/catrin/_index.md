@@ -25,7 +25,7 @@ interests:
 - Non-classical Logic
 - Probability
 - Liar paradox
-- Rationality
+- Epistemic Rationality
 - Accuracy
 
 education:
