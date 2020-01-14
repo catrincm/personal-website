@@ -32,13 +32,13 @@ education:
   courses:
   - job: Stipendary Research Fellow
     institution: Corpus Christi College, Cambridge
-    linkinstitution: "https://www.corpus.cam.ac.uk/"
+    url_institution: "https://www.corpus.cam.ac.uk/"
   - course: Dr.Phil. (PhD) in Philosophy
     institution: "Munich Center for Mathematical Philosophy (LMU Munich)"
-    linkinstitution: "http://www.mcmp.philosophie.uni-muenchen.de/index.html"
+    url_institution: "http://www.mcmp.philosophie.uni-muenchen.de/index.html"
   - course: Master in Mathematics and Philosophy
     institution: "University of Oxford"
-    linkinstitution: "https://www.ox.ac.uk"
+    url_institution: "https://www.ox.ac.uk"
     year:
 
 # Organizational groups that you belong to (for People widget)
