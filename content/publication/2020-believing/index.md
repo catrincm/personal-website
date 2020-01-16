@@ -42,9 +42,7 @@ probability framework. And we give a Dutch Book argument for certain failures of
 
 doi: "10.1093/analys/anz076"
 
-links:
-- name: Preprint
-  url: Believing Probabilistic Contents_On the Expressive Power and Coherence of Sets of Sets of Probability - with Jason Konek.pdf
+url_preprint: Believing Probabilistic Contents_On the Expressive Power and Coherence of Sets of Sets of Probability - with Jason Konek.pdf
 
 
 

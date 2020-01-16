@@ -25,11 +25,9 @@ But, strict propriety follows from weak propriety given strict truth-directednes
 summary: "We note that strict propriety follows from weak propriety, given truth-directedness, thus closing an argumentative gap in the literature."
 
 
-
+url_preprint: Strict Propriety is Weak.pdf
 doi: ""
 links:
-- name: Preprint
-  url: Strict Propriety is Weak.pdf
 - name: Technical Appendix
   url: Draft_Appendix to Strict Propriety is Weak.pdf
 

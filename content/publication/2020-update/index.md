@@ -27,9 +27,7 @@ summary: "We argue that accuracy-theoretic considerations still tell the risk-se
 doi: ""
 
 
-links:
-- name: Preprint
-  url: Accurate Updating for the Risk-Sensitive.pdf
+url_preprint: Accurate Updating for the Risk-Sensitive.pdf
 
 
 

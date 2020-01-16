@@ -25,9 +25,7 @@ In addition to specific responses to Caie's paper, this presents some bullets th
 "
 
 doi: "10.1215/00318108-2895347"
-links:
-- name: Preprint
-  url: "Rational Probabilistic Incoherence.pdf"
+url_preprint: "Rational Probabilistic Incoherence.pdf"
 
 
 

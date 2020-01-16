@@ -28,9 +28,7 @@ In the course of our argument we also lay some foundations for studying epistemi
 summary: "This argues that evidence gathering is epistemically irrational for the (Buchak-style) risk-avoidant agent. To do this we consider how accuracy should be measured once risk-awareness is rationally permissible."
 
 
-links:
-- name: Preprint
-  url: Avoiding Risk and Avoiding Evidence.pdf
+url_preprint: Avoiding Risk and Avoiding Evidence.pdf
 
 
 
