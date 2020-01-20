@@ -14,7 +14,7 @@ date_print: "Forthcoming"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Analysis"
+publication: "[Analysis](https://academic.oup.com/analysis)"
 
 
 abstract: "Considerations of accuracy---the epistemic good of having credences close to truth-values---have led to the justification of a host of epistemic norms. These arguments rely on particular ways of measuring accuracy. In particular, the accuracy measure should be strictly proper. However, the main argument for strict propriety only supports weak propriety.

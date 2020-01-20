@@ -14,7 +14,7 @@ doi: "10.1017/S1755020315000118"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Review of Symbolic Logic"
+publication: "[The Review of Symbolic Logic](https://www.cambridge.org/core/journals/review-of-symbolic-logic)"
 
 abstract: "
 We present a semantics for a language that includes sentences that can talk about their own probabilities. This semantics applies a fixed point construction to possible world style structures. One feature of the construction is that some sentences only have their probability given as a range of values. We develop a corresponding axiomatic theory and show by a canonical model construction that it is complete in the presence of the ω-rule. By considering this semantics we argue that principles such as introspection, which lead to paradoxical contradictions if naively formulated, should be expressed by using a truth predicate to do the job of quotation and disquotation and observe that in the case of introspection the principle is then consistent.
@@ -47,3 +47,4 @@ projects: []
 
 
 ---
+See also [my thesis](/publication/2016-phd) for further development.
