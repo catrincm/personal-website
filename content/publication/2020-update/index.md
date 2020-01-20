@@ -24,7 +24,7 @@ abstract: "
 # Summary. A shortened abstract for the summary pages.
 summary: "We argue that accuracy-theoretic considerations still tell the risk-sensitive to update by conditionalization."
 
-doi: ""
+doi: "10.1093/bjps/axaa006"
 
 
 url_preprint: Accurate Updating for the Risk-Sensitive.pdf
