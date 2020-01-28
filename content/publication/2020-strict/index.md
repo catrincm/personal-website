@@ -16,7 +16,6 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "[Analysis](https://academic.oup.com/analysis)"
 
-
 abstract: "Considerations of accuracy---the epistemic good of having credences close to truth-values---have led to the justification of a host of epistemic norms. These arguments rely on particular ways of measuring accuracy. In particular, the accuracy measure should be strictly proper. However, the main argument for strict propriety only supports weak propriety.
 But, strict propriety follows from weak propriety given strict truth-directedness (which is non-negotiable) and additivity (which is both very common and plausible). So no further argument is necessary.
 "
@@ -26,7 +25,7 @@ summary: "We note that strict propriety follows from weak propriety, given truth
 
 
 url_preprint: Strict Propriety is Weak.pdf
-doi: ""
+doi: "http://dx.doi.org/10.1093/analys/anaa001"
 links:
 - name: Technical Appendix
   url: Draft_Appendix to Strict Propriety is Weak.pdf
