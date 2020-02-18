@@ -4,6 +4,8 @@ authors: [
   "[Catrin Campbell-Moore](/)",
   "[Ben Levinstein](https://www.levinstein.org/)"
 ]
+coauthors: [  "[Ben Levinstein](https://www.levinstein.org/)"
+]
 date: 2020-01-07
 date_print: "Forthcoming"
 
