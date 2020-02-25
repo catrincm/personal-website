@@ -49,8 +49,8 @@
         {{ end }}
       {{ end }}
 
-      {{ $items := where (where site.RegularPages "Type" "publication") ".Params.projects" "intersect" (slice $project) }}
-      {{ $items = where (where $items ".Params.draft_paper" true) ".Params.public_draft" true }}
+      {{ $items := where (where site.RegularPages.ByLastmod.Reverse "Type" "publication") ".Params.projects" "intersect" (slice $project) }}
+      {{ $items = where $items ".Params.draft_paper" true }}
       {{ $pubs_len := len $items }}
       {{ if ge $pubs_len 1 }}
         <h2>{{ (i18n "drafts") }}</h2>

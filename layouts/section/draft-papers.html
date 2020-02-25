@@ -8,7 +8,7 @@
   <div class="article-style">{{ . }}</div>
   {{ end }}
 
-  {{ $paginator := .Paginate (where (where (where site.RegularPages "Type" "publication") "Params.draft_paper" true) "Params.public_draft" true) }}
+  {{ $paginator := .Paginate (where (where site.RegularPages.ByLastmod.Reverse "Type" "publication") "Params.draft_paper" true) }}
 
   {{ range $paginator.Pages }}
     {{ if eq $.Params.view 1 }}
