@@ -137,7 +137,7 @@
   translation: Date
 
 - id: last_updated
-  translation: Last updated on
+  translation: Last updated
 
 - id: event
   translation: Event
@@ -175,6 +175,9 @@
 - id: with
   translation: with
 
+- id: see_drafts
+  translation: See drafts
+
 # Project details
 
 - id: open_project_site
@@ -193,6 +196,9 @@
 
 - id: projects
   translation: Projects
+
+- id: drafts
+  translation: Draft papers
 
 # Search
 

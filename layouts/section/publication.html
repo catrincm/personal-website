@@ -48,7 +48,7 @@
       </div>
 
       <div id="container-publications">
-        {{ range .Pages.ByDate.Reverse }}
+        {{ range where .Pages.ByDate.Reverse ".Params.draft_paper" "!=" true }}
 
         {{ if .Params.publication_types }}
           {{ $.Scratch.Set "pubtype" (index .Params.publication_types 0) }}
@@ -76,8 +76,9 @@
 
   {{ if .Params.link_to_drafts }}
   <div class="see-all">
-    <a href="/draft">
-       See drafts
+    <a href="/draft-papers">
+       {{ (i18n "see_drafts") }}
+      <i class="fas fa-angle-right"></i>
     </a>
   </div>
   {{ end }}

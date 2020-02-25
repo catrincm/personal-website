@@ -1,5 +1,7 @@
 {{ $is_list := .is_list }}
 {{ $page := .page }}
+{{ $show_date := $page.Params.show_date | default "true" }}
+
 
 <div class="article-metadata">
 
@@ -10,41 +12,44 @@
     <span class="pub-publication">
       {{ if $page.Params.publication_short }}
         {{ $page.Params.publication_short | markdownify }}
+        </span>
+        <span class="middot-divider"></span>
       {{ else if $page.Params.publication }}
         {{ $page.Params.publication | markdownify }}
+        </span>
+        <span class="middot-divider"></span>
       {{ end }}
-    </span>
-    <span class="middot-divider"></span>
     {{ end }}
 
+{{ if $show_date }}
   {{ if not (in (slice "talk" "page") $page.Type) }}
   <span class="article-date">
     {{ $date := $page.Lastmod.Format site.Params.date_format }}
     {{ if $page.Params.date_print }}
       {{ $date = $page.Params.date_print }}
-    {{ else if eq $page.Type "publication" }}
+    {{ else if and (eq $page.Type "publication") (not $page.Params.draft_paper) }}
       {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
-    {{ else }}
-      {{ if ne $page.Params.Lastmod $page.Params.Date }}
-          {{ i18n "last_updated" }}
-      {{ end }}
+      {{ else }}
+        {{ if or (ne $page.Params.Lastmod $page.Params.Date) ($page.Params.draft_paper) }}
+            {{ i18n "last_updated" }}
+        {{ end }}
     {{ end }}
     {{ $date }}
   </span>
   {{ end }}
-
+{{ end }}
 
   {{ if eq $is_list 1 }}
     {{/* If `coauthors` is set and is not empty. */}}
     {{ if $page.Params.coauthors }}
-    {{ $authorLen := len $page.Params.coauthors }}
-    {{ if gt $authorLen 0 }}
-    <span class="middot-divider"></span>
-    <span class="pub-publication">
-      {{ partial "page_metadata_coauthors" $page }}
-    </span>
-    {{ end }}
-    {{ end }}
+      {{ $authorLen := len $page.Params.coauthors }}
+      {{ if gt $authorLen 0 }}
+        <span class="middot-divider"></span>
+        <span class="pub-publication">
+          {{ partial "page_metadata_coauthors" $page }}
+        </span>
+      {{ end }}
+      {{ end }}
     {{ else }}
       {{/* If `authors` is set and is not empty. */}}
       {{ if $page.Params.authors }}
@@ -55,7 +60,7 @@
         {{ partial "page_metadata_authors" $page }}
       </span>
       {{ end }}
-      {{ end }}
+    {{ end }}
   {{ end }}
 
   {{ if and (eq $page.Type "post") (not (or (eq site.Params.reading_time false) (eq $page.Params.reading_time false))) }}
