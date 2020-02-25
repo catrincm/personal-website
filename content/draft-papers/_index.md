@@ -1,5 +1,5 @@
 ---
-title: Drafts
+title: Draft Papers
 
 # View.
 #   1 = List
