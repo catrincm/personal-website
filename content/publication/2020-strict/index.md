@@ -37,7 +37,7 @@ url_preprint: papers/Strict Propriety is Weak.pdf
 doi: "http://dx.doi.org/10.1093/analys/anaa001"
 links:
 - name: Technical Appendix
-  url: papers/Draft_Appendix to Strict Propriety is Weak.pdf
+  url: papers/Strict Propriety is Weak_Appendix.pdf
 
 
 

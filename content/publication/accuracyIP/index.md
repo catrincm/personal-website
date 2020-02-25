@@ -1,9 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "AccuracyIP"
+title: "Accuracy and Imprecise Probabilities"
 authors: ["[Catrin Campbell-Moore](/)"]
 date: 2019-02-23
+
 
 # Optional date to print, e.g. "forthcoming" or "preprint"
 # date_print: ""
@@ -11,7 +12,7 @@ date: 2019-02-23
 featured: false
 
 draft_paper: true
-public_draft: true
+Lastmod: 2020-02-23
 
 # Publication type.
 # 0 = Uncategorized;
@@ -30,15 +31,28 @@ public_draft: true
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "In the imprecise probabilities framework we represent one's belief state as a set of precise probabilities. This paper considers the following rather natural principle to tell us about what imprecise options an imprecise probability recommends:
+
+>Imprecise Recommendation:
+What a set recommends  is the set of what the individuals recommend.
+
+
+We will show that this principle has a number of desirable consequences for the imprecise probabilist once we tie it with accuracy-theoretic considerations.
+
+
+It allows for a picture of accuracy for the imprecise where any imprecise probability recommends itself, and we can obtain arguments for various principles of rationality such as Imprecise Probabilism and Imprecise Conditionalization. It can also allow for some rationally permissible options in certain scenarios which have formed a challenge case for accuracy-theory, or more generally for rationality considerations. In such scenarios, which bear a close relationship to the liar paradox, any precise probability undermines itself, but by using Imprecise Recommendation, we see that imprecise probabilities can be self-recommending, and thus candidates for rationally permissible options.
+
+
+We also give some kind of justification to Imprecise Recommendation by providing a story thinking about the imprecise credence as a group, or credal-committee, where each committee member (precise probability) has opinions about what is better or worse, and they come together to make a decision on which groups are better and worse."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "We suggest that accuracy considerations should apply to the imprecise by using: what a set recommends is the set of what the individuals in it recommend. This results in a surprisingly nice picture of accuracy for the imprecise."
 
 #Feel free to add others
 tags:
-#- Self-referential probability
-#- Accuracy
+- Self-referential probability
+- Accuracy
+- Imprecise Probability
 #- Risk-sensitive decision theory
 #- Kripkean Construction
 #- Revision Theory of Truth
@@ -77,6 +91,6 @@ url_video:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [accuracy,undermining]
 
 ---
