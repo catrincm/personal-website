@@ -14,9 +14,9 @@ featured: false
 
 
 # Options for drafts
-#draft_paper: false
-#public_draft: false
+#draft_paper: true
 #Lastmod: {{ .Date }}
+#draft: true
 
 # Publication type.
 # 0 = Uncategorized;
@@ -29,7 +29,7 @@ featured: false
 # 7 = Report;
 # 8 = Preprint / Working Paper;
 # 9 = Other
-publication_types: ["0"]
+publication_types: []
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -44,6 +44,7 @@ summary: ""
 tags:
 #- Self-referential probability
 #- Accuracy
+#- Imprecise Probability
 #- Risk-sensitive decision theory
 #- Kripkean Construction
 #- Revision Theory of Truth
@@ -78,10 +79,6 @@ url_video:
 #  preview_only: false
 
 # Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
 
 ---
