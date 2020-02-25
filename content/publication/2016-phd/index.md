@@ -7,10 +7,17 @@ date: 2015-07-01
 
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["7"]
+# 0 = Uncategorized;
+# 1 = Journal article;
+# 2 = Book;
+# 3 = Book section;
+# 4 = Thesis;
+# 5 = Book review;
+# 6 = Conference paper;
+# 7 = Report;
+# 8 = Preprint / Working Paper;
+# 9 = Other
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
 publication: "PhD thesis - LMU München"
@@ -35,8 +42,6 @@ Working with possible world structures we develop a Kripke-style fixed-point sem
 * **What rational constraints are there on an agent once such expressive frameworks are considered?**
 
 We investigate how to apply the Dutch book and accuracy arguments to cases involving such self-referential sentences. In particular we show a number of bullets one has to bite when adopting a consequentialist perspective on the accuracy argument.
-
-
 "
 
 # Summary. A shortened abstract for the summary pages.
@@ -48,11 +53,11 @@ This thesis discusses self-referential probabilities in some gory detail. We dis
 
 links:
 - name: Full thesis
-  url: PhD thesis.pdf
+  url: papers/PhD thesis.pdf
 - name: Handout summary
-  url: PhD thesis_summary.pdf
+  url: papers/PhD thesis_summary.pdf
 - name: Eight page abstract
-  url: PhD thesis_extended abstract.pdf
+  url: papers/PhD thesis_extended abstract.pdf
 - name: URL
   url: "https://edoc.ub.uni-muenchen.de/19596/"
 

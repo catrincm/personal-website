@@ -12,10 +12,17 @@ doi: "https://doi.org/10.1093/analys/anz076"
 
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# 0 = Uncategorized;
+# 1 = Journal article;
+# 2 = Book;
+# 3 = Book section;
+# 4 = Thesis;
+# 5 = Book review;
+# 6 = Conference paper;
+# 7 = Report;
+# 8 = Preprint / Working Paper;
+# 9 = Other
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "[Analysis Reviews](https://academic.oup.com/analysis)"
@@ -44,7 +51,7 @@ probability framework. And we give a Dutch Book argument for certain failures of
 
 doi: "10.1093/analys/anz076"
 
-url_preprint: Believing Probabilistic Contents_On the Expressive Power and Coherence of Sets of Sets of Probability - with Jason Konek.pdf
+url_preprint: papers/Believing Probabilistic Contents_On the Expressive Power and Coherence of Sets of Sets of Probability - with Jason Konek.pdf
 
 
 

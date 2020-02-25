@@ -8,12 +8,18 @@ coauthors: [ "[Bernhard Salow](http://users.ox.ac.uk/~shug2406/)"]
 date: 2020-01-08
 date_print: "Forthcoming"
 
-
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# 0 = Uncategorized;
+# 1 = Journal article;
+# 2 = Book;
+# 3 = Book section;
+# 4 = Thesis;
+# 5 = Book review;
+# 6 = Conference paper;
+# 7 = Report;
+# 8 = Preprint / Working Paper;
+# 9 = Other
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "[The	British	Journal for	the	Philosophy	of	Science](https://academic.oup.com/bjps)"
@@ -28,7 +34,7 @@ summary: "We argue that accuracy-theoretic considerations still tell the risk-se
 doi: "10.1093/bjps/axaa006"
 
 
-url_preprint: Accurate Updating for the Risk-Sensitive.pdf
+url_preprint: papers/Accurate Updating for the Risk-Sensitive.pdf
 
 
 
