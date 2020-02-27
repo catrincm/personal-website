@@ -1,5 +1,5 @@
-Personal website of Catrin Campbell-Moore.
+The repository for www.ccampbell-moore.com, Catrin Campbell-Moore's academic website.
 
-Made with academic for hugo.
+Created with [academic for hugo](https://sourcethemes.com/academic/).
 
-Available at ccampbell-moore.com
+See [readme for johannes-website](https://github.com/catrincm/johannes-website/blob/master/README.md) for instructions.
