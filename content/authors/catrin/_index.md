@@ -30,16 +30,22 @@ interests:
 
 education:
   courses:
+  - job: Lecturer in Philosophy
+    institution: University of Bristol
+    url_institution: "http://www.bristol.ac.uk/philosophy/"
+    year: 2016–
   - job: Stipendary Research Fellow
     institution: Corpus Christi College, Cambridge
     url_institution: "https://www.corpus.cam.ac.uk/"
+    year: 2015–16
   - course: Dr.Phil. (PhD) in Philosophy
     institution: "Munich Center for Mathematical Philosophy (LMU Munich)"
     url_institution: "http://www.mcmp.philosophie.uni-muenchen.de/index.html"
+    year: 2016
   - course: Master in Mathematics and Philosophy
     institution: "University of Oxford"
     url_institution: "https://www.ox.ac.uk"
-    year:
+    year: 2012
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -50,6 +56,8 @@ education:
 # external_link: /
 
 ---
-I am a lecturer in Philosophy at the University of Bristol.
+
+<!-- I am a lecturer in Philosophy at the University of Bristol. -->
+
 I work on logic and formal epistemology, and often on the connection between these.
 Much of my work centres on epistemic versions of the liar paradox in the form of cases where one's credences undermine themselves. I also work on accuracy theory and alternative models of belief.
