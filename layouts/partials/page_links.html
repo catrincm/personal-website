@@ -141,11 +141,11 @@
 </button>
 {{ end }}
 
-{{ if $page.Params.projects }}
+<!-- {{ if $page.Params.projects }}
 {{ range $page.Params.projects }}
   {{ with (site.GetPage (printf "project/%s" .)) }}
   <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ .RelPermalink }}">
-    {{ i18n "btn_project" }}
+    {{ i18n "btn_project" }} - {{ .Title }}
   </a>
   {{ else }}
     {{/* errorf "The `projects` parameter in `content/%s` references a project file, `content/project/%s`, which cannot be found. Please either set `projects = []` or fix the reference." $page.File.Path . */}}
@@ -157,4 +157,4 @@
   {{ i18n "btn_project" }}
 </a>
 {{ end }}
-{{ end }}
+{{ end }} -->
