@@ -20,7 +20,7 @@ featured: false
 # Options for drafts
 draft_paper: true
 draft: true
-#Lastmod: 2020-02-25T19:18:52+01:00
+Lastmod: 2019-10-01
 
 # Publication type.
 # 0 = Uncategorized;

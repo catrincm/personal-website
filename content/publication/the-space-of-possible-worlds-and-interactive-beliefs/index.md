@@ -15,7 +15,7 @@ featured: false
 
 # Options for drafts
 draft_paper: true
-#Lastmod: 2020-02-26T09:25:50+01:00
+Lastmod: 2019-01-01
 #draft: true
 
 # Publication type.
