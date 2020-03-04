@@ -4,7 +4,7 @@
 title: "Probability and Non-Classical Logics"
 authors: ["[Catrin Campbell-Moore](/)"]
 coauthors: []
-date: 2020-02-25T19:05:16+01:00
+date: 2020-02-25
 
 
 # Optional date to print, e.g. "forthcoming" or "preprint"
