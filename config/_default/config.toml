@@ -22,7 +22,7 @@ copyright = ""
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
 
-# Get last modified date for content from Git?
+# Get last modified date for content from Git? CCM: Note that it is also set in netlify.toml
 enableGitInfo = false
 
 # Default language to use (if you setup multilingual support)
