@@ -71,8 +71,8 @@ categories: []
 
 doi: ""
 
-url_preprint: papers/Accuracy-for-IP.pdf
-url_pdf:
+url_preprint:
+url_pdf: papers/Accuracy-for-IP.pdf
 url_project:
 url_slides:
 url_video:
