@@ -20,7 +20,6 @@ featured: false
 # Options for drafts
 draft_paper: true
 draft: true
-Lastmod: 2019-10-01
 
 # Publication type.
 # 0 = Uncategorized;

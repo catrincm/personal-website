@@ -15,7 +15,6 @@ featured: false
 
 # Options for drafts
 draft_paper: true
-Lastmod: 2019-01-01
 #draft: true
 
 # Publication type.

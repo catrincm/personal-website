@@ -15,7 +15,6 @@ featured: false
 
 # Options for drafts
 #draft_paper: true
-#Lastmod: {{ .Date }}
 #draft: true
 
 # Publication type.

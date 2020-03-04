@@ -12,7 +12,6 @@ date: 2019-02-23
 featured: false
 
 draft_paper: true
-Lastmod: 2020-02-23
 
 # Publication type.
 # 0 = Uncategorized;
