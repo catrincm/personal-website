@@ -21,14 +21,14 @@ There are then many questions to answer about this framework. For example:
 
 ## Non-classical logics
 
-[Robbie Williams](https://robert-williams.org/) has shown that quite generally the accuracy arguments apply when the world is governed by a non-classical logic. However, these require that we should assign a particular numerical value to the non-classical truth values, e.g. “neither”, and our degrees of belief are still given by numerical functions. I put some pressure on this and offer some alternative models. A further question is: what should the model of belief be like if I’m uncertain _about_ logic? For such non-standard models of belief, then, the accuracy arguments need to be reconsidered. This relates the the consideration of accuracy arguments for the imprecise probability framework.
+[Robbie Williams](https://robert-williams.org/) has shown that quite generally the accuracy arguments apply when the world is governed by a non-classical logic. However, these require that we should assign a particular numerical value to the non-classical truth values, e.g. “neither”, and our degrees of belief are still given by numerical functions. I put some pressure on this and offer some alternative models. For such non-standard models of belief, then, the accuracy arguments need to be reconsidered.
 
-(Work in progress. [Email me](mailto:catrin@ccampbell-moore.com) to get a copy of my working-paper.)
+My current [draft available here](/publication/probability-and-non-classical-logics/).
 
 
 
 ## Imprecise probabilities
 
-In imprecise probability models we represent one's beliefs with a set of probabilities. I suggest that in such settings a measure of accuracy should only directly apply to the precise probabilities. To get accuracy-theoretic advice for the imprecise, we then need to ask how an imprecise agent should evaluate various other imprecise options. The suggestion I make is that it does so by asking the precise members of it what they recommend. This then gets very natural results.
+In imprecise probability models we represent one's beliefs with a set of probabilities. I suggest that in such settings a measure of accuracy should only directly apply to the precise probabilities. To get accuracy-theoretic advice for the imprecise, we then need to ask how an imprecise agent should evaluate various other imprecise options. The suggestion I make is that it does so by asking the precise members of it what they recommend and taking the resulting set. This then gets very natural results.
 
-(Work in progress. [Email me](mailto:catrin@ccampbell-moore.com) to get a copy of my working-paper.)
+My current [draft available here](/publication/accuracyIP/).
