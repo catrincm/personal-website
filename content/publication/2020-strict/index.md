@@ -35,9 +35,9 @@ summary: "We note that strict propriety follows from weak propriety, given truth
 
 url_preprint: papers/Strict Propriety is Weak.pdf
 doi: "http://dx.doi.org/10.1093/analys/anaa001"
-links:
-- name: Technical Appendix
-  url: papers/Strict Propriety is Weak_Appendix.pdf
+#links:
+#- name: Technical Appendix
+#  url: papers/Strict Propriety is Weak_Appendix.pdf
 
 
 
