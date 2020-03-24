@@ -6,7 +6,7 @@ authors: [
 ]
 coauthors: [  "[Ben Levinstein](https://www.levinstein.org/)"
 ]
-date: 2020-01-07
+date: 2020-03-15
 date_print: "Forthcoming"
 
 # Publication type.
@@ -35,9 +35,9 @@ summary: "We note that strict propriety follows from weak propriety, given truth
 
 url_preprint: papers/Strict Propriety is Weak.pdf
 doi: "http://dx.doi.org/10.1093/analys/anaa001"
-links:
-- name: Technical Appendix
-  url: papers/Strict Propriety is Weak_Appendix.pdf
+#links:
+#- name: Technical Appendix
+#  url: papers/Strict Propriety is Weak_Appendix.pdf
 
 
 
