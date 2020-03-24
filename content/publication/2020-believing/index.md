@@ -6,8 +6,7 @@ authors: [
 ]
 coauthors: [  "[Jason Konek](https://jason-konek.squarespace.com/)"
 ]
-date: 2020-03-14
-date_print: "Forthcoming"
+date: 2019-11-29
 doi: "https://doi.org/10.1093/analys/anz076"
 
 
