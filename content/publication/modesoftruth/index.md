@@ -48,7 +48,7 @@ summary: "Certain scenarios where one's beliefs undermine themselves can be para
 doi: ""
 
 
-url_pdf: /papers/Undermining Scenarios and Supervaluational Credences.pdf
+url_pdf: /papers/Undermining_Scenarios_and_Supervaluational_Credences.pdf
 
 
 
