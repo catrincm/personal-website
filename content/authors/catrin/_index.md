@@ -60,5 +60,7 @@ education:
 <!-- I am a lecturer in Philosophy at the University of Bristol. -->
 
 I work on formal epistemology and logic, and often on the connection between these.
+
 I have a big interest in cases where one's degrees of belief undermine themselves. These are epistemic versions of the liar paradox.
-I also work on
+
+I also work on what it takes to be rational when we are working in non-classical settings, either where the logic is non-classical, or our model of belief is modified, or our decision making procedure doesn't follow expected utility theory.
