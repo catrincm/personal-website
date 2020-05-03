@@ -61,6 +61,4 @@ education:
 
 I work on formal epistemology and logic, and often on the connection between these.
 
-I am interested in cases where one's degrees of belief undermine themselves. These are epistemic versions of the liar paradox.
-
-I also work on what it takes to be rational when we are working in non-classical settings, either where the logic is non-classical, or our model of belief is modified, or the agent's decision making procedure needn't follow expected utility theory.
+A theme underlying most of my research is to question what happens when we reject some of the underlying assumptions of credal epistemology. In particular, I have worked on modifying the underlying decision theory, the underlying model of belief and the underlying logic. I have also considered what happens when one allows for certain scenarios where any belief one adopts will undermine itself. Such scenarios can be seen as epistemic versions of the liar paradox.

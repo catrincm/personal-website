@@ -7,8 +7,7 @@ summary: "How do accuracy-considerations apply in settings such as risk-aware de
 funding: Leverhulme Research Grant
 
 ---
-
-Accuracy, or closeness-to-truth considerations have been used to motivate various epistemic rationality requirements. I have been thinking about how these apply in unusual settings:
+A key way to think about epistemic rationality is to identify epistemic value with the closeness-to-truth of one's beliefs (so-called accuracy) and consider how best to pursue this epistemic value. In the traditional framework this style of argument has been very successful. What happens when we consider some settings that reject assumptions built into the traditional framework.
 
 ## Risk-aware settings
 
@@ -21,7 +20,9 @@ There are then many questions to answer about this framework. For example:
 
 ## Non-classical logics
 
-[Robbie Williams](https://robert-williams.org/) has shown that quite generally the accuracy arguments apply when the world is governed by a non-classical logic. However, these require that we should assign a particular numerical value to the non-classical truth values, e.g. “neither”, and our degrees of belief are still given by numerical functions. I put some pressure on this and offer some alternative models. For such non-standard models of belief, then, the accuracy arguments need to be reconsidered.
+Suppose you're looking at a vaguely red wall and adopt the idea that it is neither true nor false that the wall is red. How should we then represent our uncertainty about the redness of the wall? Or more generally, what should your beliefs be like if the world is governed by some non-classical logic.
+
+[Robbie Williams](https://robert-williams.org/) has noted that the accuracy arguments apply in these settings if we assign a particular numerical value to the non-classical truth values, e.g. “neither”, and our degrees of belief are still given by numerical functions. I put some pressure on this and offer some alternative models. For such non-standard models of belief, then, the accuracy arguments need to be reconsidered.
 
 My current [draft available here](/publication/probability-and-non-classical-logics/).
 
