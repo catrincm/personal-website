@@ -1,6 +1,9 @@
 ---
-title: Accuracy
+title: "Epistemic Rationality"
+
+subtitle: "Weakening the Assumptions"
 date: "2019-10-03"
+lastmod: "2020-05-02"
 
 summary: "How do accuracy-considerations apply in settings such as risk-aware decision theories, non-classical logic, imprecise probabilities?"
 

@@ -8,6 +8,7 @@ tags:
 summary: "This studies epistemic versions of the liar paradox and suggests imprecise probabilities are rationally required in such cases."
 
 date: "2019-11-02"
+lastmod: "2020-05-02"
 
 # Optional external URL for project (replaces project detail page).
 

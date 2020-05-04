@@ -61,4 +61,7 @@ education:
 
 I work on formal epistemology and logic, and often on the connection between these.
 
-A theme underlying most of my research is to question what happens when we reject some of the underlying assumptions of credal epistemology. In particular, I have worked on modifying the underlying decision theory, the underlying model of belief and the underlying logic. I have also considered what happens when one allows for certain scenarios where any belief one adopts will undermine itself. Such scenarios can be seen as epistemic versions of the liar paradox.
+
+I have a particular interest in credal versions of the liar paradox. My PhD primarily worked on modifying accounts of the liar to deal with probabilities. I am now considering whether these accounts can help us understand epistemic rationality in these cases.
+
+I have a broader interest in thinking about epistemic rationality when we reject some of the underlying assumptions, for example, when the logic is non-classical, the decision theory is risk-sensitive, or where the model of belief is relaxed, such as allowing for imprecise probabilities.
