@@ -49,6 +49,7 @@
         {{ end }}
       {{ end }}
 
+{{/*
       {{ $items := where (where site.RegularPages "Type" "publication") ".Params.projects" "intersect" (slice $project) }}
       {{ $items = where $items.ByLastmod.Reverse ".Params.draft_paper" true}}
       {{ $pubs_len := len $items }}
@@ -66,6 +67,7 @@
           {{ end }}
         {{ end }}
       {{ end }}
+*/}}
 
       {{ $items := where (where site.RegularPages "Type" "talk") ".Params.projects" "intersect" (slice $project) }}
       {{ $talks_len := len $items }}
@@ -82,7 +84,7 @@
         {{ end }}
       {{ end }}
 
-
+{{/* 
             {{ $items := where (where site.RegularPages "Type" "post") ".Params.related_to_projects" "intersect" (slice $project) }}
             {{ $count := len $items }}
             {{ if ge $count 1 }}
@@ -148,6 +150,7 @@
                 {{ end }}
               {{ end }}
             {{ end }}
+*/}}
     </div>
   </div>
 </article>
