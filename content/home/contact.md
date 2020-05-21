@@ -25,4 +25,11 @@ info = "She/Her"
 # title = "Title"
 # info = "Dr"
 
+#[[personal_details]]
+#title = "Preferred way to address me"
+#info = "Catrin"
+
+#[[personal_details]]
+#title = "Addressing me"
+#info = "\"Catrin\" is fine"
 +++

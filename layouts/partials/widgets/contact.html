@@ -134,23 +134,23 @@
     <div id="map"></div>
     {{ end }}
 
+
     <div class="space-below"></div>
 
+    <ul class="fa-ul">
     {{ range $page.Params.personal_details }}
-    <div class="row">
-      <div class="col-md-12">
-        <div class="row">
-          <div class="col-12 col-md-2 pub-row-heading">
-            {{ .title | markdownify }}
-          </div>
-          <div class="col-12 col-md-9">
-            {{ .info | markdownify }}
-          </div>
+      <li>
+        <div class="pub-row-heading">
+          {{ .title | markdownify }}
         </div>
-      </div>
-    </div>
-    <div class="d-md-none space-below"></div>
+        {{ .info | markdownify }}
+      </li>
     {{ end }}
+  </ul>
+
+
+
+
 
 
   </div>
