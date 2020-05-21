@@ -16,4 +16,13 @@ autolink = true
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
 email_form = 0
+
+[[personal_details]]
+title = "Pronouns"
+info = "She/Her"
+
+# [[personal_details]]
+# title = "Title"
+# info = "Dr"
+
 +++
