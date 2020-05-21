@@ -137,16 +137,14 @@
 
     <div class="space-below"></div>
 
-    <ul class="fa-ul">
-    {{ range $page.Params.personal_details }}
-      <li>
-        <div class="pub-row-heading">
-          {{ .title | markdownify }}
-        </div>
-        {{ .info | markdownify }}
-      </li>
-    {{ end }}
-  </ul>
+{{ range $page.Params.personal_details }}
+  <p>
+    <div class="pub-row-heading">
+      {{ .title | markdownify }}
+    </div>
+    {{ .info | markdownify }}
+  </p>
+{{ end }}
 
 
 
