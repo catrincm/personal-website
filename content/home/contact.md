@@ -21,9 +21,9 @@ email_form = 0
 title = "Pronouns"
 info = "She/Her"
 
-# [[personal_details]]
-# title = "Title"
-# info = "Dr"
+[[personal_details]]
+title = "Academic Title"
+info = "Dr "
 
 #[[personal_details]]
 #title = "Preferred way to address me"
