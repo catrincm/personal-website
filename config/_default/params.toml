@@ -102,9 +102,6 @@ office_hours = []
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
 
-# CCM: Adding pronoun in contact widget
-pronoun = "she/her"
-
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [

@@ -120,15 +120,6 @@
       </li>
       {{ end }}
 
-      {{ with $data.pronoun }}
-      <li>
-        <i class="fa-li fas fa-user fa-2x" aria-hidden="true"></i>
-        <span>
-        {{ . }}
-        </span>
-      </li>
-      {{ end }}
-
     </ul>
 
     {{ if and site.Params.map.engine $data.coordinates.latitude }}
