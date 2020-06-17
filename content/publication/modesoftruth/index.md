@@ -63,7 +63,7 @@ url_pdf: /papers/modesoftruth.pdf
 tags:
 - Imprecise Probability
 - Self-referential probability
-- Kripkean Construction
+- Kripkean fixed-points
 
 
 

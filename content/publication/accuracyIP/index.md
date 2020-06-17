@@ -54,7 +54,7 @@ tags:
 - Accuracy
 - Imprecise Probability
 #- Risk-sensitive decision theory
-#- Kripkean Construction
+#- Kripkean fixed-points
 #- Revision Theory of Truth
 
 

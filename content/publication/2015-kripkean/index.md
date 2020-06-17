@@ -40,7 +40,7 @@ summary: "This presents a Kripke-style construction for a language with self-ref
 # Tags. Optional for organization.
 tags:
 - Self-referential Probability
-- Kripkean Construction
+- Kripkean fixed-points
 
 featured: false
 

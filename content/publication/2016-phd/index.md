@@ -68,7 +68,7 @@ tags:
 - Self-Referential Probability
 - Accuracy
 - Revision Theory of truth
-- Kripkean Construction
+- Kripkean fixed-points
 
 featured: false
 
