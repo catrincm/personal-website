@@ -1,11 +1,13 @@
 ---
-title: "Undermining Scenarios and Supervaluational Credences"
+title: "Indeterminate Truth and Credences"
 authors: [
   "[Catrin Campbell-Moore](/)",
 ]
 date: 2019-11-19
-lastmod: 2020-05-19
+lastmod: 2020-06-19
 
+aliases:
+  - /papers/Undermining_Scenarios_and_Supervaluational_Credences.pdf/
 
 #date_print: ""
 
@@ -30,27 +32,29 @@ featured: false
 
 # Publication name and optional abbreviated publication name.
 publication_short: "In _Modes of Truth_"
-publication: "In _Modes of Truth_, Routledge, edited by Johannes Stern and Carlo Nicolai"
+publication: "Forthcoming in _Modes of Truth_, Routledge, edited by Johannes Stern and Carlo Nicolai"
 
-abstract: "A few scenarios have recently been considered in formal epistemology that cause challenges for various views of rationality, and are closely connected to the liar paradox. For example, suppose you're going to forget your passport just if you believe you won't, and you know this about yourself. What's the rational response to such cases?
-Any credence you adopt undermines itself.
-
-
-One proposal to account for the liar paradox is a Kripkean account based on a supervaluational evaluation scheme.
-I take inspiration from this account to apply it to credence. This gives us a proposal for what the rational response to
-these cases would be. I’ll suggest that in such undermining cases, one should
-adopt so-called imprecise credences, which model our opinions by a set of precise credence functions. This allows for non-undermining attitudes in cases such as Passport.
+abstract: "
+Supervaluational accounts of truth allow truth to be indeterminate, allowing that even for languages including the liar paradox, ''fixed point'' interpretations can be found. We apply this kind of account to rational credences, to find non-undermining indeterminate epistemic states even in undermining situations.
 
 
- "
+To do this, we observe that there are specific assumptions in the implementation of the account of truth which are vital for triviality to be avoided: that we focus only on definite truth value verdicts rather than the sets of precisifications themselves. This means that when we apply the supervaluational Kripkean jump, additional precisifications are added.
+
+
+When applying this to rational credence, however, we want to focus on the set of credence functions itself (moreover, for credences, the challenge is not avoided by focusing on definite judgements). We thus directly consider an alternative jump which adds additional precise credences (by adding limits of sequences of recommended credences).  
+
+
+We use these considerations to define a notion of underminingness for indeterminate credences and see that non-undermining states can always be found.
+Our account is very general and could apply to a wide range of target domains. "
 
 # Summary. A shortened abstract for the summary pages.
-summary: "Certain scenarios where one's beliefs undermine themselves can be paralleled with the liar paradox. An application of the supervaluational Kripke construction for the liar can be seen as leading to imprecise probabilities as the rational response."
+summary: "We investigate the supervaluational Kripkean account of truth and show how it can apply to finding rational indeterminate credences in undermining scenarios.
+"
 
 doi: ""
 
 
-url_pdf: /papers/Undermining_Scenarios_and_Supervaluational_Credences.pdf
+url_pdf: /papers/modesoftruth.pdf
 
 
 
