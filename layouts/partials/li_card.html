@@ -3,7 +3,10 @@
 
 {{/* Dynamic view adjusts to content type. */}}
 {{ $show_buttons := false }}
-{{ if eq $item.Type "talk" }}
+{{ $include_link := true }}
+{{ if $item.Params.draft_paper }}
+    {{ $include_link = false }}
+{{ else if eq $item.Type "talk" }}
   {{ $show_buttons = true }}
 {{ else if eq $item.Type "publication" }}
   {{ $show_buttons = true }}
@@ -44,13 +47,15 @@
   {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
   {{ with $resource }}
   {{ $image := .Fill (printf "918x517 q90 %s" $anchor) }}
-  <a href="{{ $item.RelPermalink }}">
+  {{ with $include_link }}<a href="{{ $item.RelPermalink }}">{{ end }}
       <img src="{{ $image.RelPermalink }}" class="article-banner" alt="">
-  </a>
+  {{ with $include_link }}</a>{{ end }}
   {{end}}
 
   <h3 class="article-title mb-1 mt-3">
-    <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
+    {{ with $include_link }}<a href="{{ $item.RelPermalink }}">{{ end }}
+      {{ $item.Title }}
+    {{ with $include_link }}</a>{{ end }}
   </h3>
 
   {{ with $summary }}
