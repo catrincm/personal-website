@@ -81,7 +81,7 @@
 
 
       {{ $items := where $allitems "Type" "publication" }}
-      {{ $items = where $items ".Params.draft_paper" true}}
+      {{ $items = where $items.ByLastmod.Reverse ".Params.draft_paper" true}}
       {{ $pubs_len := len $items }}
       {{ if ge $pubs_len 1 }}
         <h2>{{ (i18n "drafts") }}</h2>
