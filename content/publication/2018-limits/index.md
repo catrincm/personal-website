@@ -3,7 +3,7 @@ title: "Limits in the Revision Theory. More Than Just Deﬁnite Verdicts"
 authors: [
   "[Catrin Campbell-Moore](/)",
 ]
-date: 2018-09-01
+date: 2018-09-13
 doi: "10.1007/s10992-018-9477-y"
 
 
