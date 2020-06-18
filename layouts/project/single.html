@@ -49,25 +49,7 @@
         {{ end }}
       {{ end }}
 
-{{/*
-      {{ $items := where (where site.RegularPages "Type" "publication") ".Params.projects" "intersect" (slice $project) }}
-      {{ $items = where $items.ByLastmod.Reverse ".Params.draft_paper" true}}
-      {{ $pubs_len := len $items }}
-      {{ if ge $pubs_len 1 }}
-        <h2>{{ (i18n "drafts") }}</h2>
-        {{ range $items }}
-          {{ if eq site.Params.projects.publication_view 1 }}
-            {{ partial "li_list" . }}
-          {{ else if eq site.Params.projects.publication_view 3 }}
-            {{ partial "li_card" . }}
-          {{ else if eq site.Params.projects.publication_view 4 }}
-            {{ partial "li_citation" . }}
-          {{ else }}
-            {{ partial "li_compact" . }}
-          {{ end }}
-        {{ end }}
-      {{ end }}
-*/}}
+
 
       {{ $items := where (where site.RegularPages "Type" "talk") ".Params.projects" "intersect" (slice $project) }}
       {{ $talks_len := len $items }}
@@ -84,7 +66,22 @@
         {{ end }}
       {{ end }}
 
-{{/* 
+
+    {{ $items := where (where site.RegularPages "Type" "publication") ".Params.projects" "intersect" (slice $project) }}
+    {{ $items = where $items ".Params.draft_paper" true}}
+    {{ $pubs_len := len $items }}
+    {{ if ge $pubs_len 1 }}
+      <h2>{{ (i18n "drafts") }}</h2>
+      <p>
+      I have some drafts on these topics. For more details, <a href="mailto:catrin@ccampbell-moore.com"> email me</a>.
+      </p>
+      {{ range $items }}
+          {{ partial "li_card" . }}
+      {{ end }}
+    {{ end }}
+
+
+{{/*
             {{ $items := where (where site.RegularPages "Type" "post") ".Params.related_to_projects" "intersect" (slice $project) }}
             {{ $count := len $items }}
             {{ if ge $count 1 }}
