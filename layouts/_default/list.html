@@ -8,9 +8,9 @@
   {{ end }}
 
     <div class="project-related-pages content-widget-hr">
-      {{ $items := .Data.Pages }}
+      {{ $allitems := .Data.Pages }}
 
-      {{ $items = where $items "Type" "publication" }}
+      {{ $items := where $allitems "Type" "publication" }}
       {{ $items = where $items ".Params.draft_paper" "!=" true }}
       {{ $pubs_len := len $items }}
       {{ if ge $pubs_len 1 }}
@@ -28,7 +28,7 @@
         {{ end }}
       {{ end }}
 
-      {{ $items = where $items "Type" "post" }}
+      {{ $items := where $allitems "Type" "post" }}
       {{ $count := len $items }}
       {{ if ge $count 1 }}
         <h2>{{ (i18n "posts") }}</h2>
@@ -44,7 +44,7 @@
       {{ end }}
 
       {{/*
-            {{ $items = where $items "Type" "publication" }}
+            {{ $items := where $allitems "Type" "publication" }}
             {{ $items = where $items.ByLastmod.Reverse ".Params.draft_paper" true}}
             {{ $pubs_len := len $items }}
             {{ if ge $pubs_len 1 }}
@@ -64,7 +64,7 @@
       */}}
 
 
-      {{ $items = where $items "Type" "talk" }}
+      {{ $items := where $allitems "Type" "talk" }}
       {{ $talks_len := len $items }}
       {{ if ge $talks_len 1 }}
         <h2>{{ (i18n "talks") }}</h2>
