@@ -25,7 +25,7 @@ doi: "10.1080/00048402.2019.1697305"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[Australasian Journal of Philosophy](https://www.tandfonline.com/loi/rajp20)"
+publication: "Australasian Journal of Philosophy"
 
 abstract: "It is natural to think that there is something epistemically objectionable about avoiding evidence, at least in ideal cases. We argue that this natural thought is inconsistent with a kind of risk-avoidance that is both wide-spread and intuitively rational. More specifically, we argue that if the kind of risk-avoidance recently defended by Lara Buchak is rational, avoiding evidence can be epistemically commendable.
 

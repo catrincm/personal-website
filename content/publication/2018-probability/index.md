@@ -25,7 +25,7 @@ doi: "10.1007/s10992-018-9475-0"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[Journal of Philosophical Logic](https://www.springer.com/journal/10992)"
+publication: "Journal of Philosophical Logic"
 
 abstract: "
 We investigate how to assign probabilities to sentences that contain a type-free truth predicate. These probability values track how often a sentence is satisfied in transfinite revision sequences, following Gupta and Belnap’s revision theory of truth. This answers an open problem by Leitgeb which asks how one might describe transfinite stages of the revision sequence using such probability functions. We offer a general construction, and explore additional constraints that lead to desirable properties of the resulting probability function. One such property is Leitgeb’s Probabilistic Convention T, which says that the probability of φ equals the probability that φ is true.

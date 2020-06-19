@@ -23,7 +23,7 @@ date_print: "Forthcoming"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[Analysis](https://academic.oup.com/analysis)"
+publication: "Analysis"
 
 abstract: "Considerations of accuracy---the epistemic good of having credences close to truth-values---have led to the justification of a host of epistemic norms. These arguments rely on particular ways of measuring accuracy. In particular, the accuracy measure should be strictly proper. However, the main argument for strict propriety only supports weak propriety.
 But, strict propriety follows from weak propriety given strict truth-directedness (which is non-negotiable) and additivity (which is both very common and plausible). So no further argument is necessary.

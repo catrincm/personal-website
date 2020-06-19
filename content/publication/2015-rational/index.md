@@ -20,7 +20,7 @@ date: 2015-07-01
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[The Philosophical Review](https://read.dukeupress.edu/the-philosophical-review)"
+publication: "The Philosophical Review"
 
 abstract: "
 In Michael Caie's article “Rational Probabilistic Incoherence,” Caie argues that in light of certain situations involving self-reference, it is sometimes rational to have probabilistically incoherent credences. This essay further considers his arguments. It shows that probabilism isn't to blame for the failure of rational introspection and that Caie's modified accuracy criterion conflicts with Dutch book considerations, is scoring rule dependent, and leads to the failure of rational introspection.
