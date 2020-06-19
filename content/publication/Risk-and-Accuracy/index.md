@@ -19,7 +19,7 @@ featured: false
 
 # Options for drafts
 draft_paper: true
-draft: true
+draft: false
 
 # Publication type.
 # 0 = Uncategorized;
@@ -44,11 +44,14 @@ abstract: "In risk-weighted decision theory, one additionally has a risk-profile
 What, then, do such risk-weighed measures of accuracy look like?
 
 
-We show that they have to be non-additive. And we construct some, with which one can give a dominance argument for probabilism, however they are not truth-directed.
+We show that they have to be non-additive. And we construct some, with which one can give a dominance argument for probabilism.
+
+
+The particular ones we construct, though, are not truth-directed. We are working on developing ''nice'' ones.
 "
 
 # Summary. An optional shortened abstract.
-summary: "What do risk-weighted accuracy measures look like? They're non-additive. But we can find some."
+summary: "What do measures of accuracy which are risk-weightedly strictly-proper look like? Some results."
 
 #Feel free to add others, though ideally add adding them to archetype
 tags:
@@ -73,12 +76,6 @@ categories: []
 #   icon: twitter
 
 doi: ""
-
-url_preprint: papers/Risk and Accuracy.pdf
-url_pdf:
-url_project:
-url_slides:
-url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
