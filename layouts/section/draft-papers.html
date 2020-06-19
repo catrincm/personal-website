@@ -8,19 +8,24 @@
   <div class="article-style">{{ . }}</div>
   {{ end }}
 
-  {{ $paginator := .Paginate (where (where site.RegularPages.ByLastmod.Reverse "Type" "publication") "Params.draft_paper" true) }}
+  <div id="container-publications">
 
+  {{ $paginator := .Paginate (where (where site.RegularPages.ByLastmod.Reverse "Type" "publication") "Params.draft_paper" true) }}
   {{ range $paginator.Pages }}
-    {{ if eq $.Params.view 1 }}
-      {{ partial "li_list" . }}
-    {{ else if eq $.Params.view 3 }}
-      {{ partial "li_card" . }}
-    {{ else }}
-      {{ partial "li_compact" . }}
-    {{ end }}
+
+  <div class="grid-sizer col-lg-12 isotope-item pubtype-{{ $.Scratch.Get "pubtype" }} year-{{ .Date.Format "2006" }}">
+
+
+      {{ partial "li_card_show_draft_links" . }}
+
+
+  </div>
   {{ end }}
 
+
   {{ partial "pagination" . }}
+
+</div>
 
 </div>
 

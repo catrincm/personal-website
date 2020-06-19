@@ -6,20 +6,18 @@
 <div class="article-metadata">
 
 
-
-
-    {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
-    <span class="pub-publication">
-      {{ if $page.Params.publication_short }}
-        {{ $page.Params.publication_short | markdownify }}
-        </span>
-        <span class="middot-divider"></span>
-      {{ else if $page.Params.publication }}
-        {{ $page.Params.publication | markdownify }}
-        </span>
-        <span class="middot-divider"></span>
-      {{ end }}
+  {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
+  <span class="pub-publication">
+    {{ if $page.Params.publication_short }}
+      {{ $page.Params.publication_short | markdownify }}
+      </span>
+      <span class="middot-divider"></span>
+    {{ else if $page.Params.publication }}
+      {{ $page.Params.publication | markdownify }}
+      </span>
+      <span class="middot-divider"></span>
     {{ end }}
+  {{ end }}
 
 {{ if $show_date }}
   {{ if not (in (slice "talk" "page") $page.Type) }}
