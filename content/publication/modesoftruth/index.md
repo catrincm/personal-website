@@ -3,8 +3,7 @@ title: "Indeterminate Truth and Credences"
 authors: [
   "[Catrin Campbell-Moore](/)",
 ]
-date: 2019-11-19
-#lastmod: 2020-06-19
+date: 2020-06-19
 date_print: "Forthcoming"
 
 aliases:
