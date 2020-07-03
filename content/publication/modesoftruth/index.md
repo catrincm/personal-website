@@ -4,14 +4,15 @@ authors: [
   "[Catrin Campbell-Moore](/)",
 ]
 date: 2019-11-19
-lastmod: 2020-06-19
+#lastmod: 2020-06-19
+date_print: "Forthcoming"
 
 aliases:
   - /papers/Undermining_Scenarios_and_Supervaluational_Credences.pdf/
 
 #date_print: ""
 
-draft_paper: true
+draft_paper: false
 #lastmod:
 
 featured: false
@@ -32,7 +33,7 @@ featured: false
 
 # Publication name and optional abbreviated publication name.
 publication_short: "In _Modes of Truth_"
-publication: "Forthcoming in _Modes of Truth_, Routledge, edited by Johannes Stern and Carlo Nicolai"
+publication: "In _Modes of Truth_, Routledge, edited by Johannes Stern and Carlo Nicolai"
 
 abstract: "
 Supervaluational accounts of truth allow truth to be indeterminate, allowing that even for languages including the liar paradox, ''fixed point'' interpretations can be found. We apply this kind of account to rational credences, to find non-undermining indeterminate epistemic states even in undermining situations.
