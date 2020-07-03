@@ -55,7 +55,7 @@ summary: "We investigate the supervaluational Kripkean account of truth and show
 doi: ""
 
 
-url_pdf: /papers/modesoftruth.pdf
+url_preprint: /papers/modesoftruth.pdf
 
 
 
