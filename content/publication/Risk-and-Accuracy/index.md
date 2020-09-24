@@ -45,9 +45,6 @@ What, then, do such risk-weighed measures of accuracy look like?
 
 
 We show that they have to be non-additive. And we construct some, with which one can give a dominance argument for probabilism.
-
-
-The particular ones we construct, though, are not truth-directed. We are working on developing ''nice'' ones.
 "
 
 # Summary. An optional shortened abstract.
