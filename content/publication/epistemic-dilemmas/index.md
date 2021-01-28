@@ -3,7 +3,7 @@ title: "Undermining Credences and Epistemic Dilemmas"
 authors: [
   "[Catrin Campbell-Moore](/)",
 ]
-date: 2020-06-19
+date: 2020-11-20
 #date_print: "Forthcoming"
 
 #date_print: ""
