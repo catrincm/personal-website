@@ -25,6 +25,7 @@ interests:
 - Accuracy
 - Models of degreed belief
 - Non-classical Logic
+- Imprecise probability
 - Liar paradox
 
 
