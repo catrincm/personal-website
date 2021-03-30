@@ -56,6 +56,7 @@ url_preprint: papers/Believing Probabilistic Contents_On the Expressive Power an
 
 # Tags. Optional.
 tags:
+- Probability filters
 - Imprecise Probability
 
 featured: false
