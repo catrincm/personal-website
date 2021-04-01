@@ -96,3 +96,6 @@ Coherent such judgements are given when the endorsed judgements are closed under
 
 
 The framework is very expressively powerful. It can unify work in the imprecise probability literature on desirable gambles and credal sets.
+
+
+This paper in particular shows that this captures the desirable gambles model.
