@@ -7,6 +7,7 @@ date: 2021-04-05
 
 aliases:
   - /papers/Undermining_Scenarios_and_Supervaluational_Credences.pdf/
+  - /papers/modesoftruth.pdf/
 
 #date_print: ""
 
