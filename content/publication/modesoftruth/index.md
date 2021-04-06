@@ -3,8 +3,7 @@ title: "Indeterminate Truth and Credences"
 authors: [
   "[Catrin Campbell-Moore](/)",
 ]
-date: 2020-06-19
-date_print: "Forthcoming"
+date: 2021-04-05
 
 aliases:
   - /papers/Undermining_Scenarios_and_Supervaluational_Credences.pdf/
@@ -48,10 +47,10 @@ We use these considerations to define a notion of underminingness for indetermin
 Our account is very general and could apply to a wide range of target domains. "
 
 # Summary. A shortened abstract for the summary pages.
-summary: "We investigate the supervaluational Kripkean account of truth and show how it can apply to finding rational indeterminate credences in undermining scenarios.
+summary: "We investigate the supervaluational Kripkean account of truth and show how it can apply to finding rational indeterminate credences in undermining scenarios. Our construction is general and could apply to a whole range of domains. 
 "
 
-doi: ""
+doi: 10.4324/9780429030208
 
 
 url_preprint: /papers/modesoftruth.pdf
