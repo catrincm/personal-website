@@ -30,7 +30,7 @@ featured: false
 # publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication_short: "In _Modes of Truth_"
+publication_short: "In _Modes of Truth_, Routledge"
 publication: "In _Modes of Truth_, Routledge, edited by Johannes Stern and Carlo Nicolai"
 
 abstract: "
@@ -47,7 +47,7 @@ We use these considerations to define a notion of underminingness for indetermin
 Our account is very general and could apply to a wide range of target domains. "
 
 # Summary. A shortened abstract for the summary pages.
-summary: "We investigate the supervaluational Kripkean account of truth and show how it can apply to finding rational indeterminate credences in undermining scenarios. Our construction is general and could apply to a whole range of domains. 
+summary: "We investigate the supervaluational Kripkean account of truth and show how it can apply to finding rational indeterminate credences in undermining scenarios. Our construction is general and could apply to a whole range of domains.
 "
 
 doi: 10.4324/9780429030208
