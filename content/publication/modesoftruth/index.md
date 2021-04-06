@@ -31,8 +31,8 @@ featured: false
 # publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication_short: "In _Modes of Truth_, Routledge"
-publication: "In _Modes of Truth_, Routledge, edited by Johannes Stern and Carlo Nicolai"
+publication_short: "In [_Modes of Truth_](https://doi.org/10.4324/9780429030208), Routledge"
+publication: "In [_Modes of Truth_](https://doi.org/10.4324/9780429030208), Routledge, edited by Johannes Stern and Carlo Nicolai"
 
 abstract: "
 Supervaluational accounts of truth allow truth to be indeterminate, allowing that even for languages including the liar paradox, ''fixed point'' interpretations can be found. We apply this kind of account to rational credences, to find non-undermining indeterminate epistemic states even in undermining situations.
@@ -51,11 +51,10 @@ Our account is very general and could apply to a wide range of target domains. "
 summary: "We investigate the supervaluational Kripkean account of truth and show how it can apply to finding rational indeterminate credences in undermining scenarios. Our construction is general and could apply to a whole range of domains.
 "
 
-doi: 10.4324/9780429030208
 
-
-url_preprint: /papers/modesoftruth.pdf
-
+links:
+ - name: "DOI"
+   url: https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429030208-8/indeterminate-truth-credences-catrin-campbell-moore?context=ubx&refId=c38e2579-0be4-4ef5-bb82-31543e3958ab
 
 
 
