@@ -8,7 +8,9 @@ authors: [
 coauthors:   ["Leon Horsten",
   "Hannes Leitgeb"]
 date: 2018-09-01
-doi: "10.1007/s10992-018-9475-0"
+links:
+ - name: "DOI (open access)"
+   url: "https://doi.org/10.1007/s10992-018-9475-0"
 
 
 # Publication type.

@@ -53,7 +53,7 @@ summary: "We investigate the supervaluational Kripkean account of truth and show
 
 
 links:
- - name: "DOI"
+ - name: "DOI (open access)"
    url: https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429030208-8/indeterminate-truth-credences-catrin-campbell-moore?context=ubx&refId=c38e2579-0be4-4ef5-bb82-31543e3958ab
 
 
