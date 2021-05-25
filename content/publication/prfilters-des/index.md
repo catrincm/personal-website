@@ -89,10 +89,12 @@ related_to_projects: []
 We propose representing a (possibly imprecise) epistemic state using a probability filter.
 
 
-This focuses on judgements on sets of probabilities. Instead of having precise probability p, we think about properties like whether pr(A)>0.2; and these probabilistic properties may be endorsed or rejected. Judgement may also be suspended, allowing for imprecision.
+This focuses on judgements on sets of probabilities.
+When you think that it is more likely to be sunny than rainy, we capture your attitude with a collection of probabilistic judgements including the judgement that p(Sunny)>p(Rainy). 
+Judgement may also be suspended, you might allowing for imprecision.
 
 
-Coherent such judgements are given when the endorsed judgements are closed under finite intersections and supersets. This allows for non-Archimadean behaviour.
+Coherent such judgements are given when the judgements are closed under finite intersections and supersets. This allows for non-Archimadean behaviour.
 
 
 The framework is very expressively powerful. It can unify work in the imprecise probability literature on desirable gambles and credal sets.
