@@ -50,6 +50,7 @@ url_preprint: /papers/epdilemmas.pdf
 tags:
 - Self-referential probability
 #- Accuracy
+- Imprecise Probability
 - Indeterminate Probability
 #- Risk-sensitive decision theory
 - Kripkean fixed-points
