@@ -7,15 +7,15 @@ coauthors: []
 date: 2021-03-29T17:45:44+01:00
 
 
-# Optional date to print, e.g. "forthcoming" or "preprint"
-# date_print: ""
+# Optional date to print, e.g. "Forthcoming or "preprint"
+date_print: "Forthcoming"
 
 featured: false
 
 
 # Options for drafts
-draft_paper: true
-lastmod: 2021-03-29T17:45:44+01:00
+draft_paper: false
+lastmod: 2021-05-23T17:45:44+01:00
 #draft: true
 
 # Publication type.
@@ -32,8 +32,8 @@ lastmod: 2021-03-29T17:45:44+01:00
 publication_types: []
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "ISIPTA proceedings"
+publication_short: "ISIPTA 2021"
 
 abstract: ""
 
@@ -66,8 +66,8 @@ categories: []
 
 doi: ""
 
-url_preprint:
-url_pdf: papers/prfilters-des.pdf
+url_preprint: papers/prfilters-des.pdf
+url_pdf:
 url_project:
 url_slides:
 url_video:
