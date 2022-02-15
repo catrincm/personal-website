@@ -8,7 +8,7 @@ date: 2021-03-29T17:45:44+01:00
 
 
 # Optional date to print, e.g. "Forthcoming or "preprint"
-date_print: "Forthcoming"
+# date_print: "Forthcoming"
 
 featured: false
 
@@ -32,7 +32,7 @@ lastmod: 2021-05-23T17:45:44+01:00
 publication_types: []
 
 # Publication name and optional abbreviated publication name.
-publication: "ISIPTA proceedings"
+publication: "Proceedings of Machine Learning Research -- ISIPTA 2021"
 publication_short: "ISIPTA 2021"
 
 abstract: ""
@@ -67,7 +67,7 @@ categories: []
 doi: ""
 
 url_preprint: papers/prfilters-des.pdf
-url_pdf:
+url_pdf: https://proceedings.mlr.press/v147/campbell-moore21a.html
 url_project:
 url_slides:
 url_video:
@@ -90,7 +90,7 @@ We propose representing a (possibly imprecise) epistemic state using a probabili
 
 
 This focuses on judgements on sets of probabilities.
-When you think that it is more likely to be sunny than rainy, we capture your attitude with a collection of probabilistic judgements including the judgement that p(Sunny)>p(Rainy). 
+When you think that it is more likely to be sunny than rainy, we capture your attitude with a collection of probabilistic judgements including the judgement that p(Sunny)>p(Rainy).
 Judgement may also be suspended, you might allowing for imprecision.
 
 
