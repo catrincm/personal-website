@@ -1,12 +1,11 @@
 ---
 title: "Accurate Updating for the Risk-Sensitive"
-authors: [
-  "[Catrin Campbell-Moore](/)",
-  "[Bernhard Salow](http://users.ox.ac.uk/~shug2406/)"
-]
+authors: [catrin, bernhard]
 coauthors: [ "[Bernhard Salow](http://users.ox.ac.uk/~shug2406/)"]
 date: 2020-03-16
 date_print: "Forthcoming"
+
+featured: true
 
 # Publication type.
 # 0 = Uncategorized;

@@ -1,11 +1,8 @@
 ---
 title: "Believing Probabilistic Contents"
-authors: [
-  "[Catrin Campbell-Moore](/)",
-  "[Jason Konek](https://jason-konek.squarespace.com/)"
-]
-coauthors: [  "[Jason Konek](https://jason-konek.squarespace.com/)"
-]
+authors:
+ - catrin
+ - jason
 date: 2019-11-29
 doi: "https://doi.org/10.1093/analys/anz076"
 

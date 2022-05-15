@@ -1,18 +1,17 @@
 ---
 title: "Epistemic Dilemmas, Undermining Scenarios and
 Determinate Recommendations"
-authors: [
-  "[Catrin Campbell-Moore](/)",
-]
+authors:
+ - catrin
+
 date: 2020-11-20
 date_print: "Forthcoming"
-
 #date_print: ""
 
-draft_paper: false
+
 lastmod: 2021-05-25
 
-featured: false
+featured: true
 
 
 # Publication type.

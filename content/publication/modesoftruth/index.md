@@ -1,8 +1,8 @@
 ---
 title: "Indeterminate Truth and Credences"
-authors: [
-  "[Catrin Campbell-Moore](/)",
-]
+authors:
+ - catrin
+ 
 date: 2021-04-05
 
 aliases:
@@ -11,10 +11,10 @@ aliases:
 
 #date_print: ""
 
-draft_paper: false
+
 #lastmod:
 
-featured: false
+featured: true
 
 
 # Publication type.

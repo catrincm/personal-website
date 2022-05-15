@@ -1,8 +1,7 @@
 ---
 title: "Rational Probabilistic Incoherence. A Reply to Michael Caie"
-authors: [
-  "[Catrin Campbell-Moore](/)",
-]
+authors: 
+- catrin
 date: 2015-07-01
 
 

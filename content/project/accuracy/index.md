@@ -9,6 +9,9 @@ summary: "How do accuracy-considerations apply in settings such as risk-aware de
 
 funding: Leverhulme Research Grant
 
+tags:
+- Accuracy
+
 ---
 A key way to think about epistemic rationality is to identify epistemic value with the closeness-to-truth of one's beliefs (so-called accuracy) and consider how best to pursue this epistemic value. In the traditional framework this style of argument has been very successful. What happens when we consider some settings that reject assumptions built into the traditional framework.
 

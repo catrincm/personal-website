@@ -2,19 +2,20 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Probability Filters as a Model of Belief"
-authors: ["[Catrin Campbell-Moore](/)"]
-coauthors: []
+authors:
+- catrin
+
 date: 2021-03-29T17:45:44+01:00
 
 
 # Optional date to print, e.g. "Forthcoming or "preprint"
 # date_print: "Forthcoming"
 
-featured: false
+featured: true
 
 
 # Options for drafts
-draft_paper: false
+
 lastmod: 2021-05-23T17:45:44+01:00
 #draft: true
 

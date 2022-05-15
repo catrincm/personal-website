@@ -1,12 +1,10 @@
 ---
 title: "Probability for the Revision Theory of Truth"
-authors: [
-  "[Catrin Campbell-Moore](/)",
-  "Leon Horsten",
-  "Hannes Leitgeb"
-]
-coauthors:   ["Leon Horsten",
-  "Hannes Leitgeb"]
+authors:
+ - catrin
+ - leon
+ - hannes
+
 date: 2018-09-01
 links:
  - name: "DOI (open access)"

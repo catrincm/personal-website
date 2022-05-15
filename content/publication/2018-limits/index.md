@@ -1,8 +1,7 @@
 ---
 title: "Limits in the Revision Theory. More Than Just Deﬁnite Verdicts"
-authors: [
-  "[Catrin Campbell-Moore](/)",
-]
+authors:
+ - catrin
 date: 2018-09-13
 links:
  - name: "DOI (open access)"

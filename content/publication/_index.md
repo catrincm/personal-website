@@ -12,6 +12,4 @@ view: 3
 header:
   caption: ""
   image: ""
-
-link_to_drafts: true
 ---

@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "{{ replace .Name "-" " " | title }}"
-authors: ["[Catrin Campbell-Moore](/)"]
-coauthors: []
+authors:
+ - catrin
 date: {{ .Date }}
 
 

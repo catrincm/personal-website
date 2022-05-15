@@ -1,8 +1,7 @@
 ---
 title: "How to Express Self-Referential Probability. A Kripkean Proposal"
-authors: [
-  "[Catrin Campbell-Moore](/)",
-]
+authors:
+- catrin
 date: 2015-04-30
 doi: "10.1017/S1755020315000118"
 

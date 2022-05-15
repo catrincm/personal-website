@@ -1,11 +1,9 @@
 ---
 title: "Avoiding Risk and Avoiding Evidence"
-authors: [
-  "[Catrin Campbell-Moore](/)",
-  "[Bernhard Salow](http://users.ox.ac.uk/~shug2406/)"
-]
-coauthors: [  "[Bernhard Salow](http://users.ox.ac.uk/~shug2406/)"
-]
+authors:
+ - catrin
+ - bernhard
+
 date: 2020-03-13
 publishDate: 2019-11-07
 doi: "10.1080/00048402.2019.1697305"

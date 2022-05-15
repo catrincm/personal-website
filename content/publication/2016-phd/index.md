@@ -1,8 +1,7 @@
 ---
 title: "Self-Referential Probability"
-authors: [
-  "[Catrin Campbell-Moore](/)",
-]
+authors:
+- catrin
 date: 2016-01-01
 
 

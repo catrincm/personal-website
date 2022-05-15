@@ -1,13 +1,12 @@
 ---
 title: "Strict Propriety is Weak"
-authors: [
-  "[Catrin Campbell-Moore](/)",
-  "[Ben Levinstein](https://www.levinstein.org/)"
-]
+authors: [catrin, benlevinstein]
 coauthors: [  "[Ben Levinstein](https://www.levinstein.org/)"
 ]
 date: 2020-03-15
 date_print: 2021
+
+featured: true
 
 # Publication type.
 # 0 = Uncategorized;
