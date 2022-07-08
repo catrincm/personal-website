@@ -31,6 +31,7 @@ Overwrite `layouts/partials/widgets/contact.html` to add part starting `{{ range
 # Draft papers
 - Overwrite `layouts/section/publication.html` to add a link at the end to `See Drafts`
 - Duplicate `layouts/section/publication.html` for `layouts/section/draft-papers.html`, removing selection
+- Duplicate `layouts/publication/single.html` to `layouts/draft-papers/single.html`, to create the pages for the draft-papers.
 - In `config.yaml` have: `permalinks:  draft-papers: '/publication/:slug/` so the urls of drafts are consistent with those of papers.
 
 # Date print
@@ -39,6 +40,8 @@ Overwrite `layouts/partials/widgets/contact.html` to add part starting `{{ range
 # Formatting of default list - used in tags.
 - Overwrite `layouts/_default/list.html` based roughly on `layouts/project/single.html`.
 
+# Remove project link in lis
+- Duplicate `layouts/partials/page_links.html` and remove part starting `{{ if $page.Params.projects }}`
 
 # TODO:
 - Remove the "Catrin Campbell-Moore" line from card. Only include co-authors and then say "with...".
