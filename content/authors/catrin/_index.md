@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer in Philosophy
+role: Senior Lecturer in Philosophy
 
 # Organizations/Affiliations
 organizations:
