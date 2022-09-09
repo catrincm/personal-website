@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-  - job: Lecturer in Philosophy
+  - job: Senior Lecturer in Philosophy
     institution: University of Bristol
     url_institution: "http://www.bristol.ac.uk/philosophy/"
     year: 2016–
