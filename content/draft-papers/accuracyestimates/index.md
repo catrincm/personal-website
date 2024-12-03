@@ -12,7 +12,7 @@ date: 2022-04-23
 
 featured: false
 
-# lastmod: 2020-03-04
+lastmod: 2024-12-02
 
 # Publication type.
 # 0 = Uncategorized;
