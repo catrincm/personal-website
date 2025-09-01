@@ -7,8 +7,8 @@ authors:
 date: {{ .Date }}
 
 
-# Optional date to print, e.g. "forthcoming" or "preprint"
-# date_print: ""
+# Optional date to print. "Forthcoming", "Preprint" or year of publication to print, e.g., "2025" if that differs from the normal date (which is what generates the ordering).
+# date_print: "Forthcoming"
 
 featured: false
 
@@ -29,7 +29,7 @@ featured: false
 # 7 = Report;
 # 8 = Preprint / Working Paper;
 # 9 = Other
-publication_types: []
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
