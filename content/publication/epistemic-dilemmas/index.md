@@ -28,7 +28,7 @@ featured: true
 # publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication_short: "In _Epistemic Dilemmas_"
+publication_short: "In _Epistemic Dilemmas_, OUP"
 publication: "In _Epistemic Dilemmas_, OUP, edited by Nick Hughes"
 
 abstract: "Cases where every credence undermines its own adoption seem to lead to epistemic dilemmas. We move to considering indeterminate credences and look at what is determinately recommended of you. By doing this, we propose that the epistemic dilemmas are avoided.
