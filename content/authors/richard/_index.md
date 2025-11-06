@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Jason Konek
+title: Richard Pettigrew
 
 # Username (this should match the folder name)
 authors:
-- jason
+- richard
 
 # Is this the primary user of the site?
 superuser: false
 
 # CCM: URL to replace author/admin if it tries to introduce that.
-external_link: https://philpeople.org/profiles/jason-konek
+external_link: https://richardpettigrew.com/
 
 ---
