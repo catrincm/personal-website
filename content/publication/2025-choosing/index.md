@@ -39,7 +39,7 @@ abstract: "Decision theories give guidance about what to do when you face a part
 "
 
 # Summary. An optional shortened abstract.
-summary: "What happens when we use a decision theory to judge itself? Theories that diverge from Expected Utility Theory typically still recommend that using EUT, thus undermining themselves. "
+summary: "What happens when we use a decision theory to judge itself? Theories that diverge from Expected Utility Theory often recommend using EUT, thus undermining themselves. "
 
 #Feel free to add others
 tags:
