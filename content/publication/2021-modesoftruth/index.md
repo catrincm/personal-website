@@ -61,8 +61,8 @@ links:
 # Tags. Optional for organization.
 tags:
 - Imprecise Probability
-- Self-referential probability
-- Kripkean fixed-points
+- Self-referential Probability
+- Kripkean Fixed-points
 
 
 

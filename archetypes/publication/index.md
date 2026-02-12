@@ -42,12 +42,14 @@ summary: ""
 
 #Feel free to add others
 tags:
-#- Self-referential probability
 #- Accuracy
 #- Imprecise Probability
-#- Risk-sensitive decision theory
-#- Kripkean fixed-points
+#- Indeterminate Probability
+#- Kripkean Fixed-points
+#- Probability Filters
 #- Revision Theory of Truth
+#- Risk-sensitive Decision Theory
+#- Self-referential Probability
 
 
 

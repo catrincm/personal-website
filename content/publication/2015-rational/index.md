@@ -38,7 +38,7 @@ url_preprint: "papers/Rational Probabilistic Incoherence.pdf"
 
 # Tags. Optional for organization.
 tags:
-- Self-Referential Probability
+- Self-referential Probability
 - Accuracy
 
 featured: false

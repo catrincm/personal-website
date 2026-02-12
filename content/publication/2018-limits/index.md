@@ -42,7 +42,7 @@ This provides a new proposal for what to do at limit stages of the revision theo
 # Tags. Optional for organization.
 tags:
 - Revision Theory of Truth
-- Self-Referential Probability
+- Self-referential Probability
 
 featured: false
 

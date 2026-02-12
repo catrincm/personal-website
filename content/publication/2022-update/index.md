@@ -41,7 +41,7 @@ url_preprint: papers/Accurate Updating for the Risk-Sensitive.pdf
 # Tags. Optional for organization.
 tags:
 - Accuracy
-- Risk-sensitive decision theory
+- Risk-sensitive Decision Theory
 
 featured: false
 

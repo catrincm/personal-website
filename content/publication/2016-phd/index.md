@@ -64,10 +64,10 @@ links:
 
 # Tags. Optional for organization.
 tags:
-- Self-Referential Probability
+- Self-referential Probability
 - Accuracy
-- Revision Theory of truth
-- Kripkean fixed-points
+- Revision Theory of Truth
+- Kripkean Fixed-points
 
 featured: false
 

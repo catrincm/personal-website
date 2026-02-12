@@ -43,7 +43,7 @@ url_preprint: papers/Avoiding Risk and Avoiding Evidence.pdf
 # Tags. Optional for organization.
 tags:
 - Accuracy
-- Risk-sensitive decision theory
+- Risk-sensitive Decision Theory
 
 featured: false
 

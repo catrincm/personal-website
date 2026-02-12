@@ -46,7 +46,7 @@ tags:
 #- Self-referential probability
 #- Accuracy
 - Imprecise Probability
-- Risk-sensitive decision theory
+- Risk-sensitive Decision Theory
 #- Kripkean fixed-points
 #- Revision Theory of Truth
 

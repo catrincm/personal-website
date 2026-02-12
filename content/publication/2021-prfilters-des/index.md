@@ -44,7 +44,7 @@ summary: "We propose representing a (possibly imprecise) epistemic state using a
 
 #Feel free to add others
 tags:
-- Probability filters
+- Probability Filters
 #- Self-referential probability
 #- Accuracy
 - Imprecise Probability

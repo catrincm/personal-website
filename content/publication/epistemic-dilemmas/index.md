@@ -47,12 +47,12 @@ url_preprint: /papers/epdilemmas.pdf
 
 # Tags. Optional for organization.
 tags:
-- Self-referential probability
+- Self-referential Probability
 #- Accuracy
 - Imprecise Probability
 - Indeterminate Probability
 #- Risk-sensitive decision theory
-- Kripkean fixed-points
+- Kripkean Fixed-points
 #- Revision Theory of Truth
 
 
