@@ -43,5 +43,5 @@ Overwrite `layouts/partials/widgets/contact.html` to add part starting `{{ range
 # Remove project link in lis
 - Duplicate `layouts/partials/page_links.html` and remove part starting `{{ if $page.Params.projects }}`
 
-# TODO:
-- Remove the "Catrin Campbell-Moore" line from card. Only include co-authors and then say "with...".
+# Publication card co-authors
+- Overwrite `layouts/partials/page_metadata.html` so publication/draft list cards exclude site owner(s) via author `superuser: true` (not hardcoded names) and show co-authors inline as `with ...` after date and venue.
