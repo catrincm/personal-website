@@ -3,7 +3,7 @@ title: "Strict Propriety is Weak"
 authors: [catrin, benlevinstein]
 coauthors: [  "[Ben Levinstein](https://www.levinstein.org/)"
 ]
-date: 2020-03-15
+date: 2021-03-15
 date_print: 2021
 
 featured: true

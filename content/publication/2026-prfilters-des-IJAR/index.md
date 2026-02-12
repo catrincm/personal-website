@@ -81,8 +81,8 @@ categories: []
 
 doi: ""
 
-url_preprint:
-url_pdf: papers/Probability Filters IJAR.pdf
+url_preprint: papers/Probability Filters IJAR.pdf
+url_pdf: 
 url_project:
 url_slides:
 url_video:

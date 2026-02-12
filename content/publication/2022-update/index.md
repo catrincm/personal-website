@@ -2,7 +2,7 @@
 title: "Accurate Updating for the Risk-Sensitive"
 authors: [catrin, bernhard]
 coauthors: [ "[Bernhard Salow](http://users.ox.ac.uk/~shug2406/)"]
-date: 2020-03-16
+date: 2022-03-16
 date_print: 2022
 
 featured: true
