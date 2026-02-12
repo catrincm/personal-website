@@ -11,7 +11,7 @@ date: 2021-03-29T17:45:44+01:00
 # Optional date to print, e.g. "Forthcoming or "preprint"
 # date_print: "Forthcoming"
 
-featured: true
+featured: false
 
 
 # Options for drafts
@@ -86,6 +86,7 @@ projects: []
 related_to_projects: []
 ---
 
+This conference version was developed into the journal article [Probability Filters and Desirable Gambles]({{< relref "/publication/2026-prfilters-des-IJAR" >}}).
 
 We propose representing a (possibly imprecise) epistemic state using a probability filter.
 

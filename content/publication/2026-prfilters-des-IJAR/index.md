@@ -12,6 +12,9 @@ date: 2026-02-11T18:14:53Z
 
 featured: true
 
+aliases:
+  - /papers/prfilters-des_ijar.pdf/
+
 
 # Options for drafts
 #draft_paper: true
@@ -55,13 +58,14 @@ summary: "We show that representing imprecise probabilities by using probability
 
 #Feel free to add others
 tags:
-#- Self-referential probability
 #- Accuracy
 - Imprecise Probability
-#- Risk-sensitive decision theory
-#- Kripkean fixed-points
+#- Indeterminate Probability
+#- Kripkean Fixed-points
+- Probability Filters
 #- Revision Theory of Truth
-
+#- Risk-sensitive Decision Theory
+#- Self-referential Probability
 
 
 categories: []

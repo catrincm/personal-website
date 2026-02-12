@@ -68,3 +68,5 @@ projects: []
 
 
 ---
+
+Details about the link to the desirability and choice functions framework is spelt out in more detail in [Probability Filters and Desirable Gambles]({{< relref "/publication/2026-prfilters-des-IJAR" >}}).
