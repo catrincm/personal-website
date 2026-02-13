@@ -47,4 +47,4 @@ Overwrite `layouts/partials/widgets/contact.html` to add part starting `{{ range
 - Overwrite `layouts/partials/page_metadata.html` so publication/draft list cards exclude site owner(s) via author `superuser: true` (not hardcoded names) and show co-authors inline as `with ...` after date and venue.
 
 # Reduce spacing in card
-- Overwrite `layouts/partials/views/card.html` and amend so that non-event metadata is rendered below the title (not above), and tighten title spacing (`mb-0 mt-0`) to reduce vertical space.
+- Overwrite `layouts/partials/views/card.html` and amend so that non-event metadata is rendered below the title (not above), and tighten title spacing (`mb-0 mt-0`) to reduce vertical space. See [commit `f00e7d6`](https://github.com/catrincm/personal-website/commit/f00e7d67c34a57fa144bec878edf7b4c50c5bea9).
