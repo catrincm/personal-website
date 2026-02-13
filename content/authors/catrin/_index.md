@@ -62,9 +62,13 @@ education:
 
 I work on formal epistemology and logic, and often on the connection between these.
 
+Themes I work on include:
+  - Imprecise or indeterminate probability (developing a "probability filter" model).
+  - Combining non-classical logic and probabilities. 
+  - Epistemic rationality especially accuracy.
+  - Decision theories (including imprecise and risk-weighted).
+  - The liar paradox and theories of truth (especially Kripkean constructions and revision theory, with a particular interest in supervaluational Kripkean).
+  - Rational responses to scenarios where rationality is always undermining, because of self-referential credal statements or unfortunate undermining scenarios and epistemic bribes.
 
-I have a particular interest in credal versions of the liar paradox. My PhD primarily worked on modifying accounts of the liar to deal with probabilities. I am now considering whether these accounts can help us understand epistemic rationality in these cases.
-
-I have a broader interest in thinking about epistemic rationality when we reject some of the underlying assumptions, for example, when the logic is non-classical, the decision theory is risk-sensitive, or where the model of belief is relaxed, such as allowing for imprecise probabilities.
 
 After two years off-sick with long COVID, as of July 2024 I am returning to work.
