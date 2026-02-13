@@ -41,10 +41,10 @@ Overwrite `layouts/partials/widgets/contact.html` to add part starting `{{ range
 - Overwrite `layouts/_default/list.html` based roughly on `layouts/project/single.html`.
 
 # Remove project link in lis
-- Duplicate `layouts/partials/page_links.html` and remove part starting `{{ if $page.Params.projects }}`
+- Overwrite `layouts/partials/page_links.html` to remove part starting `{{ if $page.Params.projects }}`
 
-# Publication card co-authors
-- Overwrite `layouts/partials/page_metadata.html` so publication/draft list cards exclude site owner(s) via author `superuser: true` (not hardcoded names) and show co-authors inline as `with ...` after date and venue.
+# Publication co-authors
+- Overwrite `layouts/partials/page_metadata.html` so that in publication and draft-paper types, the author names exclude superuser and shows co-authors as `with ...` after date and venue. See [commit `cbe0dbf`](https://github.com/catrincm/personal-website/commit/cbe0dbf5fc34263810b006477ebba7faea526069).
 
 # Reduce spacing in card
 - Overwrite `layouts/partials/views/card.html` and amend so that non-event metadata is rendered below the title (not above), and tighten title spacing (`mb-0 mt-0`) to reduce vertical space. See [commit `f00e7d6`](https://github.com/catrincm/personal-website/commit/f00e7d67c34a57fa144bec878edf7b4c50c5bea9).
