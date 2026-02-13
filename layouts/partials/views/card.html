@@ -37,8 +37,6 @@
     <span>{{ . }}</span>
     {{ end }}
   </div>
-  {{ else }}
-    {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
   {{ end }}
 
   {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
@@ -53,9 +51,13 @@
   </a>
   {{end}}
 
-  <div class="section-subheading article-title mb-1 mt-3">
+  <div class="section-subheading article-title mb-0 mt-0">
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
   </div>
+
+  {{ if ne $item.Type "event" }}
+    {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
+  {{ end }}
 
   {{ with $summary }}
   <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
