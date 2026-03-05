@@ -71,4 +71,4 @@ Themes I work on include:
   - Rational responses to scenarios where rationality is always undermining, because of self-referential credal statements or unfortunate undermining scenarios and epistemic bribes.
 
 
-After two years off-sick with long COVID, as of July 2024 I am returning to work.
+After two years off-sick with long COVID 2022-24, I have now returned to work.
