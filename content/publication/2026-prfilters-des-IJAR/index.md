@@ -36,7 +36,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "International Journal of Approximate Reasoning"
-publication_short: "IJAR"
+#publication_short: "IJAR"
 
 abstract: "In this paper we propose a mathematical model for imprecise probability representing an agent’s uncertain beliefs. The proposed model is closely
 related to the credal set model, which uses a set of probability functions.
@@ -83,6 +83,7 @@ doi: ""
 
 url_preprint: papers/Probability Filters IJAR.pdf
 url_pdf: 
+doi: 10.1016/j.ijar.2026.109643
 url_project:
 url_slides:
 url_video:

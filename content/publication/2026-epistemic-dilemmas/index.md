@@ -4,9 +4,7 @@ Determinate Recommendations"
 authors:
  - catrin
 
-date: 2024-11-20
-date_print: "Forthcoming"
-#date_print: ""
+date: 2026-01-01
 
 
 lastmod: 2024-11-01
@@ -41,6 +39,8 @@ doi: ""
 
 
 url_preprint: /papers/epdilemmas.pdf
+url_pdf: 
+doi: 10.1093/9780192585325.003.0017
 
 
 
