@@ -24,15 +24,6 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 
-services:
-  googleAnalytics:
-    id: G-J72KBT3K5S
-
-privacy:
-  googleAnalytics:
-    disable: false
-    respectDoNotTrack: true
-
 ############################
 ## ADVANCED
 ############################
