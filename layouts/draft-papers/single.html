@@ -16,6 +16,11 @@
   {{ partial "page_header.html" . }}
 
   <div class="article-container">
+    
+    {{ if .Params.summary }}
+    <h3>Summary</h3>
+    <div class="pub-abstract">{{ .Params.summary | markdownify }}</div>
+    {{ end }}
 
     {{ if .Params.abstract }}
     <h3>{{ i18n "abstract" }}</h3>
