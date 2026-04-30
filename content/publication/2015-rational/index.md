@@ -27,7 +27,7 @@ In Michael Caie's article “Rational Probabilistic Incoherence,” Caie argues 
 
 # Summary. A shortened abstract for the summary pages.
 summary: "
-In addition to specific responses to Caie's paper, this presents some bullets that need to be bitten if one adopts a consequentialist view of epistemic utility. Further such bullets are also presented in my thesis (ch.7)
+In addition to specific responses to Caie's paper, this presents some bullets that need to be bitten if one adopts a consequentialist view of epistemic utility. Further such bullets are also presented in [my thesis](/publication/2016-phd) (ch.7)
 "
 
 doi: "10.1215/00318108-2895347"

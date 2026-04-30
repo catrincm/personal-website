@@ -59,11 +59,11 @@
   </div>
 
   {{ with $summary }}
-  <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
+  <div class="summary-link">
     <div class="article-style">
-      <p>{{.}}</p>
+      {{ . }}
     </div>
-  </a>
+  </div>
   {{ end }}
 
 </div>

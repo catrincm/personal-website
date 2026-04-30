@@ -29,11 +29,10 @@ featured: true
 publication_short: "In _Epistemic Dilemmas_, OUP"
 publication: "In _Epistemic Dilemmas_, OUP, edited by Nick Hughes"
 
-abstract: "Cases where every credence undermines its own adoption seem to lead to epistemic dilemmas. We move to considering indeterminate credences and look at what is determinately recommended of you. By doing this, we propose that the epistemic dilemmas are avoided.
- "
+abstract: "In some unfortunate scenarios, whatever credence one adopts generates evidence which undermines the rational adoption of that credence. These seem to create epistemic dilemmas. We consider the possibility that one’s credences are indeterminate and require for rationality that one’s indeterminate credences should follow any indeterminate evidence. We will show that rationality principles like these can always be satisfied. This allows the epistemic dilemma to be avoided, however it mandates indeterminate epistemic states and modifications of the rationality principles to apply to the indeterminate state."
 
 # Summary. A shortened abstract for the summary pages.
-#summary: "We investigate the supervaluational Kripkean account of truth and show how it can apply to finding rational indeterminate credences in undermining scenarios."
+summary: "Seeming dilemmas arise when what you believe affects what you should believe. I propose that in such cases, rationality mandates indetermiante epistemic states."
 
 doi: ""
 

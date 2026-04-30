@@ -39,8 +39,7 @@ publication_short: "ISIPTA 2021"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "We propose representing a (possibly imprecise) epistemic state using a probability filter focusing on probabilistic properties, such as whether pr(A)>0.2. It is very expressively powerful.
-"
+summary: "We propose representing a (possibly imprecise) epistemic state using a probability filter focusing on probabilistic properties, such as whether pr(A)>0.2. It is very expressively powerful. It was developed in [this IJAR publication](/publication/2026-prfilters-des-IJAR)."
 
 #Feel free to add others
 tags:
