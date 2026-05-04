@@ -4,7 +4,7 @@
 title: "Results about Sets of Desirable Gamble Sets"
 authors:
  - catrin
-date: 2022-06-08
+date: 2022-01-01
 lastmod: 2025-01-14
 
 aliases:
