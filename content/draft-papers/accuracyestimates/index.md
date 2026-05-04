@@ -33,7 +33,7 @@ publication_short: ""
 
 
 # Summary. An optional shortened abstract.
-summary: "We present standard results about representations of strictly proper measures of accuracy. We also show the same results hold when measuring accuracy of previsions more generally."
+summary: "We present standard results about representations of strictly proper measures of accuracy. We also show the same results hold when measuring accuracy of previsions more generally. This has significant philosophical payoff"
 
 abstract: "This document goes through some standard results about strictly proper measures of accuracy and representation theorems (Schervish and Savage/Bregman).
 
@@ -94,3 +94,10 @@ url_video:
 projects: [accuracy]
 
 ---
+
+
+There are philosophical payoffs of extending accuracy measures to estimates:
+1) Agents should be thought of not only as having probabilities but associating real-valued expectation values to quantities. If this is to be taken seriously rather than derivatively, such measures are needed. 
+2) If truth-values are non-classical and given real valued 'cognitive load' (in the sense of Williams) such extended accuracy measures are needed. 
+3) Two accuracy arguments seemingly different arguments for the Principal Principle which Richard Pettigrew gives turn out to be mathematically equivalent. We can indeed meaure closeness to chance, and it matches chance's estiamte of closeness to truth.
+4) A better argument for the Brier score can be given by taking measures of estimates to be 'value symmetric', extending the 0/1-symmetry from Joyce, but in the general estimates setting, a unique accuracy score is identified: the Brier score. This helps in a response to the Bronfman objection and gives a natural justification of this measure which is simpler than alternative arguments for it which are given by Pettigrew. 
