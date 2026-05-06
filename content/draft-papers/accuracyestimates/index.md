@@ -7,12 +7,18 @@ authors:
 date: 2022-04-23
 
 
+
+
 # Optional date to print, e.g. "forthcoming" or "preprint"
 # date_print: ""
 
 featured: false
 
 lastmod: 2024-12-02
+
+aliases:
+  - papers/accuracy%20representations%20and%20estimates.pdf
+
 
 # Publication type.
 # 0 = Uncategorized;
