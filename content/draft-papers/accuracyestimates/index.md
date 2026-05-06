@@ -64,16 +64,16 @@ categories: []
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
+links:
+ - name: arXiv
+   url: https://arxiv.org/abs/2412.06420
 #   icon_pack: fab
 #   icon: twitter
 
 doi: ""
 
 url_preprint:
-url_pdf: papers/accuracy representations and estimates.pdf
+url_pdf: 
 url_project:
 url_slides:
 url_video:
