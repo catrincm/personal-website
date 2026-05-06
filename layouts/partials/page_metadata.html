@@ -29,7 +29,9 @@
   <span class="article-date">
     {{ $date := $page.Lastmod | time.Format site.Params.locale.date_format }}
     {{ if $page.Params.date_print }}
-          {{ $date = $page.Params.date_print }}
+      {{ $date = $page.Params.date_print }}
+    {{ else if eq $page.Type "draft-papers" }}
+      {{ $date = $page.Date | time.Format (site.Params.publications.date_format | default "January, 2006") }}
     {{ else if eq $page.Type "publication" }}
       {{ $date = $page.Date | time.Format (site.Params.publications.date_format | default "January, 2006") }}
     {{ else }}

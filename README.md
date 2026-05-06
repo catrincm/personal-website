@@ -48,3 +48,7 @@ Overwrite `layouts/partials/widgets/contact.html` to add part starting `{{ range
 
 # Reduce spacing in card
 - Overwrite `layouts/partials/views/card.html` and amend so that non-event metadata is rendered below the title (not above), and tighten title spacing (`mb-0 mt-0`) to reduce vertical space. See [commit `f00e7d6`](https://github.com/catrincm/personal-website/commit/f00e7d67c34a57fa144bec878edf7b4c50c5bea9).
+
+# Summary links
+- Overwrite `layouts/partials/views/card.html` and `layouts/partials/views/community/card_nolinks.html` so summary text is not wrapped in a single link to the item page. This allows Markdown links inside summaries to render as real links.
+- Overwrite `layouts/publication/single.html` so publication pages show the front matter `summary` before the `abstract`.
