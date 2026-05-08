@@ -33,6 +33,12 @@ summary: "This presents a Kripke-style construction for a language with self-ref
 
 
 
+url_preprint: papers/Kripkean-model-probability.pdf
+url_pdf: 
+url_project:
+url_slides:
+url_video:
+
 
 
 
@@ -51,6 +57,7 @@ featured: false
 #   Otherwise, set `projects: []`.
 projects: []
 related_to_projects: [undermining]
+
 
 
 ---
