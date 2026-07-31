@@ -1,0 +1,17 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  {{ with .Content }}
+    <div class="article-style">{{ . }}</div>
+  {{ end }}
+
+  <div class="project-related-pages content-widget-hr">
+    {{ range $index, $item := .Pages.ByTitle }}
+      {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "list") "index" $index) }}
+    {{ end }}
+  </div>
+</div>
+
+{{- end -}}
